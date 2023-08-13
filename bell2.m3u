@@ -17,7 +17,7 @@ https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10094/s10094_ll_h15_ad.png?w=55" group-title="NEWS",CBNEWS  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10170/s10170_ll_h15_aa.png?w=55"group-title="",CWEA  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10170/s10170_ll_h15_aa.png?w=55" group-title="",CWEA  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/15997/s15997_ll_h15_ac.png?w=55" group-title="SHOPPINH",TSC  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/15997/s15997_ll_h15_ac.png?w=55" group-title="Shopping",TSC  
 https://tscamd.akamaized.net/hls/live/503340/TSCLive/video_1/video_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10119/s10119_ll_h15_ab.png?w=55" group-title="",CICA  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""https://zap2it.tmsimg.com/h3/NowShowing/10125/s10125_ll_h15_ab.png?w=55group-title="",CITY  
@@ -26,7 +26,8 @@ https://tscamd.akamaized.net/hls/live/503340/TSCLive/video_1/video_1.m3u8
 #EXTINF:-1 tvg-id="I575.15072.zap2it.com" tvg-name="CMT" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/15072/s15072_ll_h15_aa.png?w=55" group-title="",CMT  
 #EXTINF:-1 tvg-id="I808.61998.zap2it.com" tvg-name="APTN" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59663/s59663_ll_h15_aa.png?w=55" group-title="",APTNE  
 #EXTINF:-1 tvg-id="I1566.94289.zap2it.com" tvg-name="CP24" tvg-logo="" group-title="",CP24  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/16604/s16604_ll_h15_ab.png?w=55" group-title="",JTV  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/16604/s16604_ll_h15_ab.png?w=55" group-title="Shopping",JTV  
+https://cdn3.wowza.com/1/eUdsNEcyMmRvckor/K3pydHZw/hls/b05j647j/480/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/105354/s105354_ll_h15_ab.png?w=55" group-title="",OMNI  
 https://debate-elections-2019.akamaized.net/cf11202114c9447483667f6ca2e93dc0/us-west-2/89871584001/profile_1/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10100/s10084_ll_h15_ab.png?w=55" group-title="",CBUT  
@@ -47,7 +48,8 @@ https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",EPGLOOR  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="politics",CPAC  
+#EXTINF:-1 tvg-id="" tvg-name="CPAC" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17608/s17608_ll_h15_ae.png?w=55"group-title="politics",CPAC  
+https://cpac-live.cdn.vustreams.com/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",VISION  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",AMITV  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CKCWDT  
