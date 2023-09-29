@@ -313,7 +313,7 @@ plugin://plugin.video.lntv/play/2103/play.pvr
 http://503718662793310066.of230922.xyz:80/play/Javi817J/Javi817JM122/310066.ts
 #EXTINF:-1tvg-name="GSN"tvg-id="I269.14909.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/14909/s14909_ll_h15_ad.png/"group-title="",GSN
 #EXTINF:-1tvg-name="FOODC"tvg-id="I270.24525.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/24525/s24525_ll_h15_ad.png/"group-title="",FOODC
-http://503718662793633916.of230922.xyz:80/play/Javi817J/Javi817JM122/633916.ts
+https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/9k8m7he7wh/out/v1/4c5bb15020f94906a047c08236574fdc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
 #EXTINF:-1tvg-name="HGTVC"tvg-id="I271.17638.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17638/s17638_ll_h15_ab.png/"group-title="",HGTVC
 #EXTINF:-1tvg-name="SLICE"tvg-id="I272.15181.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/15181/s15181_ll_h15_ab.png/"group-title="",SLICE
 #EXTINF:-1tvg-name="MAGNS"tvg-id="I273.26829.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/26829/s26829_ll_h15_ab.png/"group-title="",MAGNS
