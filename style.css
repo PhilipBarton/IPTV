@@ -2,5 +2,6 @@ img{
   width:50px;
 };
 iframe{
-  width:50%;
+  width:500px;
+  position: fixed;
 };
