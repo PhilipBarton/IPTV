@@ -2,7 +2,6 @@ img{
   width:50px;
 };
 .iframe{
-  left: 0;
-  
+  right: 0;
   position: fixed;
 };
