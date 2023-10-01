@@ -256,6 +256,7 @@ if (window.FileList && window.File && window.FileReader) {
       reader.onload = function (evt) {
         const results = evt.target.result;
         results.split(splitBy).map(function (channel) {
+            const group = getValuesByKey(channel, keysToParse.group);
           const name = getValuesByKey(channel, keysToParse.name);
           const link = getLink(channel);
           if (link) {
