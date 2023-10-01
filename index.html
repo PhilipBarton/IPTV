@@ -1297,9 +1297,22 @@ body {
         </div>
         </div>
     <div class=" column">  
+        <button type="button" onclick="loadXMLDoc()">Get my CD collection</button>
+<br><br>
+<table id="demo"></table>
+
+
         <h1>hey</h1>
         <iframe width="80%" height="2000px" src="https://tvlistings.zap2it.com/?aid=gapzap" title="W3Schools Free Online Web Tutorials"></iframe>
 </div>
     </div>
+    <script>
+function loadXMLDoc() {
+  var xmlhttp = new XMLHttpRequest();
+  xmlhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+      myFunction(this);
+    }
+    </script>
 </body>
 </html>
