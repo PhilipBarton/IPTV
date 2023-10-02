@@ -183,8 +183,8 @@ loader.style.display = "none";
 main.style.display = "none";
 
 // Possible external variables
-const splitBy = "";
-const keysToParse = { name: "tvg-name" };
+const splitBy = "EXTINF:-1";
+const keysToParse = { name: "tvg-name", group: "group-title" };
 
 // Get group of values
 const getValuesByKey = (string, key) => {
@@ -232,7 +232,9 @@ async function copy_url(url) {
   }
 }
 // The constructor
-function Channel(link) {
+function Channel(name, group, link) {
+  this.name = name;
+  this.group = group;
   this.link = link;
 }
 
@@ -260,7 +262,7 @@ if (window.FileList && window.File && window.FileReader) {
           const link = getLink(channel);
           if (link) {
             // if group equal...
-            return obj.push(new Channel( link));
+            return obj.push(new Channel(name, group, link));
           }
           return [];
         });
