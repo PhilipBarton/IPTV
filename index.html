@@ -262,7 +262,7 @@ if (window.FileList && window.File && window.FileReader) {
           const link = getLink(channel);
           if (link) {
             // if group equal...
-            return obj.push(new Channel(name, group, link));
+            return obj.push(new Channel( link));
           }
           return [];
         });
