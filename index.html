@@ -197,7 +197,7 @@ const getValuesByKey = (string, key) => {
 };
 // Get Link
 const getLink = (string) => {
-  const regx = /http[s]*:\/\/[^\/]+(\/.+)/;
+  const regx =("http") ;
   const value = string.match(regx);
   if (value && value.length) {
     return value[0];
