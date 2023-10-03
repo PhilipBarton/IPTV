@@ -347,50 +347,5 @@ function search() {
   }
 }
        </script>
-    <script>
-        var wavesurfer = WaveSurfer.create({
-    container: '#waveform',
-    waveColor: '#D2EDD4',
-    progressColor: '#46B54D'
-}); 
-
-// load default track
-wavesurfer.load('https://ia800508.us.archive.org/15/items/LoveThemeFromTheGodfather/02LoveThemeFromTheGodfather.mp3');
-
-// load M3U playlist
-var myPlaylist = wavesurfer.Playlist;
-$('body').on('click', '.loadM3U', function(){
-  myPlaylist.init({
-    wavesurfer: wavesurfer,
-    playlistFile: 'https://github.com/PhilipBarton/IPTV/raw/PhilipBarton-patch-1/Tv.m3u',
-    playlistType: 'm3u'
-  });    
-});
-
-// on playlist parsed with event playlist-ready
-var myList;
-wavesurfer.on('playlist-ready', function () {
-  myList = myPlaylist.getPlaylist();
-  for (var i = 0; i < myList.length; i++) {
-    if (myList[i]) {
-      $('.playlistbox').append('<li class="playTrack" data-id="'+i+'">'+myList[i]+'</li>');
-    }
-  }
-  console.log(myList); 
-});  
-
-// on waveform ready
-wavesurfer.on('waveform-ready', function () {
-  wavesurfer.play();
-});
-
-// on playlist track click
-$('body').on('click', '.playTrack', function(){
-  wavesurfer.load(myList[$(this).data('id')]);
-});
-
-Resources
-    </script>
-    <script src="https://unpkg.com/wavesurfer.js@7"></script>
 </body>
 </html>
