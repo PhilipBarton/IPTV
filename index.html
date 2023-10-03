@@ -169,9 +169,9 @@ body {
     </div>
 
        <script>
-           let text = "http";
-let n = text.search("/ http /i");
-           document.getElementById("status").innerHTML = n;
+           const reader = new FileReader();
+      reader.readAsText(file, "UTF-8");
+           document.getElementById("status").innerHTML = reader;
        </script>
 </body>
 </html>
