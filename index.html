@@ -78,14 +78,23 @@
             }
             }
 .column {
-  
-  width: 70%;
+  position: fixed;
+  width: 60%;
+  left:50%;
 }
             .small{
-                width:30%!important;
+                width:40%!important;
+                
+            }
+            #myUL{
+              inline-size: 150px;
+             position: fixed;
+                height:500px;
+                overflow: auto; 
             }
             .row{
                 display:flex;
+              
                 width:100%;
             }
 body {
@@ -105,8 +114,9 @@ body {
   
   <body>
     <div class="row">
+       
       <div class="small">
-  <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names.." title="Type in a name">
+ <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names.." title="Type in a name">
   <ul id="myUL">
 <li><a href="">"FIBETV1"tvg-id="I1.96458.zap2it.com"<img src="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"></a></li>FIBETV1 
 rtp://239.0.0.2:5001
@@ -1026,4 +1036,4 @@ function myFunction() {
 }
 </script>
 </body>
-    </html>
+                                                        </html>
