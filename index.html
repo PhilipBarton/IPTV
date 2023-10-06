@@ -1035,13 +1035,18 @@ function myFunction() {
 }
 </script>
     <script>
-var x = 0;
-$(document).ready(function(){
-  $("div").scroll(function(){
-    $("li").css({"color": "red", "border": "2px solid red"});
+// Add active class to the current button (highlight it)
+var header = document.getElementById("myUL");
+var btns = header.getElementsByClassName("list-group-item");
+for (var i = 0; i < btns.length; i++) {
+  btns[i].addEventListener("click", function() {
+  var current = document.getElementsByClassName("active");
+  current[0].className = current[0].className.replace(" active", "");
+  this.className += " active";
   });
-});
+}
     </script>
+    
     <script>
       const triggerTabList = document.querySelectorAll('#myUL a')
 triggerTabList.forEach(triggerEl => {
