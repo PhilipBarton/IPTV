@@ -1022,5 +1022,12 @@ triggerTabList.forEach(triggerEl => {
   })
 })
     </script>
+    <script>
+const element = document.getElementsByClassName("active");
+const closest = element.closest("li");
+if (closest) {
+  closest.style.border = "4px solid black";
+}
+</script>
 </body>
                                                         </html>
