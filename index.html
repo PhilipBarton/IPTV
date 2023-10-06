@@ -107,11 +107,11 @@ body {
   </head>
   
   
-  <body data-bs-spy="scroll" data-bs-target="#myUL">
+  <body data-bs-spy="scroll" data-bs-target="#mycat">
     <div class="container">
     <div class="row">
        
-      <div class="col-6 " >
+      <div class="col-6 "  id="mycat">
  <input class="form-control me-2"  type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names.." title="Type in a name">
   <ul class="list-group"  id="myUL">
   <li  class="list-group-item"><a href="https://tv.bell.ca/watch/channel-PPV2">"FIBETV1"<img src="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"></a></li>FIBETV1 
@@ -1030,11 +1030,11 @@ function myFunction() {
 </script>
     <script>
       const scrollSpy = new bootstrap.ScrollSpy(document.body, {
-  target: '#nyUL'
+  target: '#mycat'
 })
     </script>
     <script>
-      const triggerTabList = document.querySelectorAll('#myTab a')
+      const triggerTabList = document.querySelectorAll('#myUL a')
 triggerTabList.forEach(triggerEl => {
   const tabTrigger = new bootstrap.Tab(triggerEl)
 
