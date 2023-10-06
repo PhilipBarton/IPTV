@@ -95,10 +95,10 @@
           }
            
             #myUL{ 
-                height:900px; 
+              
               width:400px;
               position: relative;
-              overflow: scroll;
+          
             }
             .row{
                 display:flex;
@@ -1024,7 +1024,7 @@ triggerTabList.forEach(triggerEl => {
     </script>
     <script>
 const element = document.getElementById("select");
-const closest = element.closest(".list-group");
+const closest = element.closest(".active");
 if (closest) {
   closest.style.border = "4px solid black";
 }
