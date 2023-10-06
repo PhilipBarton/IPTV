@@ -1035,9 +1035,10 @@ function myFunction() {
 }
 </script>
     <script>
-              $(document).ready(function(){
+var x = 0;
+$(document).ready(function(){
   $("div").scroll(function(){
-    $("a").closest("li").css({"color": "red", "border": "2px solid red"});
+    $("li").css({"color": "red", "border": "2px solid red"});
   });
 });
     </script>
