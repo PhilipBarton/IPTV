@@ -1002,13 +1002,18 @@ function myFunction() {
 }
 </script>
     <script>
-$(window).scroll(function(){
-    if ($(this).scrollTop() > 50) {
-       $('.list-group-item').addClass('active');
-    } else {
-       $('.list-group-item').removeClass('active');
-    }
-});
+$(window).scroll(function(){ 
+    
+    const scrolling_position = $(window).scrollTop()
+    const window_height = $(window).height()
+    
+    $("li).each(function(){
+      const product_position = $(this).position().top
+      if(product_position <= scrolling_position + window_height)
+        $(this).addClass("animate__animated animate__fadeInDown") // replace this by whatever class you want
+    });
+
+  })
     </script>
     
     <script>
