@@ -96,6 +96,8 @@
   height: 100px;
   box-sizing: border-box;
   overflow-y: hidden;
+            background:gray;
+            border-radius:2px;
 }
 
           .small{
@@ -1051,7 +1053,7 @@ triggerTabList.forEach(triggerEl => {
       $(function(){
   $(".list-group-item").each(function(i){
     len=$(this).text().length;
-    if(len>20)
+    if(len>10)
     {
       $(this).text($(this).text().substr(0,10)+'...');
     }
