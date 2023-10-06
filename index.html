@@ -95,7 +95,7 @@
   width: 30%;
   height: 100px;
   box-sizing: border-box;
-  overflow-y: scroll;
+  overflow-y: hidden;
 }
 
           .small{
@@ -121,8 +121,7 @@ body {
         flex-wrap: wrap;
 }
 li{
-  height: 300px;
-  border: solid blue;
+
 }
 li.scrolled{
   border: solid red;
@@ -1047,6 +1046,17 @@ triggerTabList.forEach(triggerEl => {
     tabTrigger.show()
   })
 })
+    </script>
+    <script>
+      $(function(){
+  $(".list-group-item").each(function(i){
+    len=$(this).text().length;
+    if(len>10)
+    {
+      $(this).text($(this).text().substr(0,10)+'...');
+    }
+  });       
+});
     </script>
   
 </body>
