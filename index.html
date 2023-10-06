@@ -980,6 +980,7 @@ b  <li class="list-group-item"><a href="https://streaming.ptcplay.com/ptcPunjabi
   <li class="list-group-item"><a href="https://s6.hopslan.com/pro7maxxv/tracks-v1a1/mono.m3u8">"PSIEB1C"tvg-id="I2673.96541.zap2it.com"<img src="https://zap2it.tmsimg.com/h3/NowShowing/96541/s96541_ll_h15_aa.png"></a></li>PSIEB1C
 
 </ul>
+        <button class="down">down</button>
 </div>
 <div class="column">
   <iframe class="embed-responsive-item" width="500px" height="3000px" src="https://tvlistings.zap2it.com/?aid=gapzap" title="W3Schools Free Online Web Tutorials"></iframe>
@@ -1009,18 +1010,21 @@ function myFunction() {
 }
 </script>
     <script>
-$(window).scroll(function(){ 
-    
-    const scrolling_position = $(window).scrollTop()
-    const window_height = $(window).height()
-    
-    $("li.list-group-item").each(function(){
-      const product_position = $(this).position().top
-      if(product_position <= scrolling_position + window_height)
-        $(this).addClass("animate__animated animate__fadeInDown") // replace this by whatever class you want
-    });
-
+$('.down , .up ').hover(function() {
+  //get class split it and then generated comma seperated value..
+  var classes = $(this).attr('class').split(" ").map(function(value) {
+    return "li." + value;
+  }).join(",")
+  $(classes).addClass('highlight'); //add there classs
+  //get all highlight ..
+  $("section > ol > li.highlight").each(function() {
+    $(this)[0].scrollIntoView(); //scroll there
   })
+}, function() {
+  $('ol > li').removeClass('highlight'); //remove class
+});
+    
+ 
     </script>
     
     <script>
