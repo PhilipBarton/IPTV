@@ -143,7 +143,7 @@ li.scrolled{
        
       <div class="small"  id="mycat">
  <input class="form-control me-2"  type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names.." title="Type in a name">
-  <ul class="list-group"  id="myUL">
+  <ol class="list-group"  id="myUL">
   <section><li  class="list-group-item"><a href="https://tv.bell.ca/watch/channel-PPV2">"FIBETV1"<img src="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"></a></li></section>FIBETV1 
 
 < li><a href="https://gem.cbc.ca/live/19?autoplay=1">"CBNT"<img src="https://zap2it.tmsimg.com/h3/NowShowing/17400/s10084_ll_h15_ab.png"></a></li></section>CBNT
@@ -989,7 +989,7 @@ b  <section><li class="list-group-item"><a href="https://streaming.ptcplay.com/p
 
   <section><li class="list-group-item"><a href="https://s6.hopslan.com/pro7maxxv/tracks-v1a1/mono.m3u8">"PSIEB1C"tvg-id="I2673.96541.zap2it.com"<img src="https://zap2it.tmsimg.com/h3/NowShowing/96541/s96541_ll_h15_aa.png"></a></li></section>PSIEB1C
 
-</ul>
+</ol>
         <button class="down">down</button>
 </div>
 <div class="column">
@@ -1027,7 +1027,7 @@ $('.down ').hover(function() {
   }).join(",")
   $(classes).addClass('highlight'); //add there classs
   //get all highlight ..
-  $("section > ul > li.highlight").each(function() {
+  $("section > ol > li.highlight").each(function() {
     $(this)[0].scrollIntoView(); //scroll there
   })
 }, function() {
