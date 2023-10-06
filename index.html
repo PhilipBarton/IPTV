@@ -948,7 +948,7 @@ plugin://plugin.video.lntv/play/1904/play.pvr
 ">"B4UCAN"tvg-id="I2249.28755.zap2it.com"<img src="https://zap2it.tmsimg.com/h3/NowShowing/28755/s28755_ll_h9_aa.png"></a></li>"Pakistani",B4UCAN
   <li class="list-group-item"><a href="http://503718662793626149.of230922.xyz:80/play/Javi817J/Javi817JM122/626149.ts
 ">"SETMXC"tvg-id="I2250.72296.zap2it.com"<img src="https://zap2it.tmsimg.com/h3/NowShowing/72296/s72296_ll_h15_ab.png"></a></li>SETMXC
-  <li class="list-group-item"><a href="">"ZEETVHD"tvg-id="I2252.83299.zap2it.com"<img src="https://zap2it.tmsimg.com/h3/NowShowing/83299/s83299_ll_h15_ac.png"></a></li>ZEETVHD
+  <li id="select" class="list-group-item"><a href="">"ZEETVHD"tvg-id="I2252.83299.zap2it.com"<img src="https://zap2it.tmsimg.com/h3/NowShowing/83299/s83299_ll_h15_ac.png"></a></li>ZEETVHD
   <li class="list-group-item"><a href="http://503718662793621226.of230922.xyz:80/play/Javi817J/Javi817JM122/621226.ts
 ">"ZCIN"tvg-id="I2253.21773.zap2it.com"<img src="https://zap2it.tmsimg.com/h3/NowShowing/21773/s21773_ll_h15_ab.png"></a></li>ZCIN
   <li class="list-group-item"><a href="">"AAJTK"tvg-id="I2256.48512.zap2it.com"<img src="https://zap2it.tmsimg.com/h3/NowShowing/48512/s48512_ll_h9_ab.png"></a></li>AAJTK
@@ -1023,8 +1023,8 @@ triggerTabList.forEach(triggerEl => {
 })
     </script>
     <script>
-const element = document.getElementByClass(".list-group-item");
-const closest = element.closest("ul");
+const element = document.getElementById("select");
+const closest = element.closest(".list-group");
 if (closest) {
   closest.style.border = "4px solid black";
 }
