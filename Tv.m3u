@@ -121,7 +121,7 @@ http://503718662793636262.of230922.xyz:80/play/Javi817J/Javi817JM122/636262.ts
 #EXTINF:-1tvg-name="TSN4"tvg-id="I104.90122.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90122/s90122_ll_h15_aa.png/"group-title="",TSN4
 http://503718662793620366.of230922.xyz:80/play/Javi817J/Javi817JM122/620366.ts
 #EXTINF:-1tvg-name="TSN5"tvg-id="I105.90124.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90124/s90124_ll_h15_aa.png/"group-title="",TSN5
-plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.com%2F%2Fstream%2Fstream-115.php
+http://503718662793636263.of230922.xyz:80/play/Javi817J/Javi817JM122/636263.ts
 #EXTINF:-1tvg-name="MLBNC"tvg-id="I107.90155.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90155/s90155_ll_h15_aa.png/"group-title="",MLBNC
 http://503718662793538748.of230922.xyz:80/play/Javi817J/Javi817JM122/538748.ts
 #EXTINF:-1tvg-name="SNE"tvg-id="I110.18798.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18798/s18798_ll_h15_aa.png/"group-title="",SNE
@@ -509,6 +509,7 @@ rtp://239.0.0.2:5001
 #EXTINF:-1tvg-name="FAMCCDM"tvg-id="I531.77598.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/77598/s77598_ll_h15_aa.png/"group-title="",FAMCCDM
 #EXTINF:-1tvg-name="TREEDM"tvg-id="I532.46782.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/46782/s17639_ll_h15_ab.png/"group-title="",TREEDM
 #EXTINF:-1tvg-name="EPGLOOR"tvg-id="I533.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png/"group-title="",EPGLOOR
+http://www.bell.tv
 #EXTINF:-1tvg-name="CRAVE"tvg-id="I534.90995.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90995/s90995_ll_h15_aa.png/"group-title="",CRAVE
 #EXTINF:-1tvg-name="FJRDM"tvg-id="I535.72106.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/72106/s72106_ll_h15_aa.png/"group-title="",FJRDM
 #EXTINF:-1tvg-name="CRAVEOD"tvg-id="I536.113587.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png/"group-title="",CRAVEOD
@@ -584,7 +585,7 @@ plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.com
 #EXTINF:-1tvg-name="TSN3HD"tvg-id="I603.90119.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90119/s90119_ll_h15_aa.png/"group-title="",TSN3HD
 #EXTINF:-1tvg-name="TSN4HD"tvg-id="I604.90123.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90123/s90123_ll_h15_aa.png/"group-title="",TSN4HD
 #EXTINF:-1tvg-name="TSN5HD"tvg-id="I605.90125.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90125/s90125_ll_h15_aa.png/"group-title="",TSN5HD
-plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.com%2F%2Fstream%2Fstream-115.php
+http://503718662793636263.of230922.xyz:80/play/Javi817J/Javi817JM122/636263.ts
 #EXTINF:-1tvg-name="MLBNCHD"tvg-id="I607.90156.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90156/s90156_ll_h15_aa.png/"group-title="",MLBNCHD
 #EXTINF:-1tvg-name="SP4KB"tvg-id="I609.99158.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/99158/s99158_ll_h9_aa.png/"group-title="",SP4KB
 #EXTINF:-1tvg-name="SNEHD"tvg-id="I610.62109.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/62109/s62109_ll_h15_aa.png/"group-title="",SNEHD
@@ -738,7 +739,7 @@ plugin://plugin.video.lntv/play/286/play.pvr
 #EXTINF:-1tvg-name="YOUTB"tvg-id="I888.101209.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png/"group-title="Sports",YOUTB
 plugin://plugin.video.lntv/play/1324/play.pvr
 #EXTINF:-1tvg-name="CIMTDT"tvg-id="I900.72960.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/72960/s16367_ll_h15_ab.png/"group-title="sports",CIMTDT
-plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D05b8976f35c90b1746783ad50413fcc9&amp;content=0
+http://503718662793636264.of230922.xyz:80/play/Javi817J/Javi817JM122/636264.ts
 #EXTINF:-1tvg-name="CBAFTDT"tvg-id="I902.72974.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/72974/s72974_ll_h15_ab.png/"group-title="",CBAFTDT
 plugin://plugin.video.lntv/play/1921/play.pvr
 #EXTINF:-1tvg-name="RDIHD"tvg-id="I903.60327.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/60327/s60327_ll_h15_aa.png/"group-title="",RDIHD
