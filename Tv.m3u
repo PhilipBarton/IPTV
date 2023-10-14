@@ -24,7 +24,7 @@ https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8
 #EXTINF:-1tvg-name="CBNEWS"tvg-id="I13.10094.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10094/s10094_ll_h15_ad.png/"group-title="",CBNEWS
 plugin://plugin.video.tvone112/play/145/2398/play.pvr
 #EXTINF:-1tvg-name="CWEA"tvg-id="I14.10170.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10170/s10170_ll_h15_aa.png/"group-title="",CWEA
-plugin://plugin.video.plutotv/play/live/63da370e2e477400081cf8b6
+https://d3f6rv2ihfj09x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4l4ssesb90374-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1tvg-name="CWEA"tvg-id="I15.10170.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10170/s10170_ll_h15_aa.png/"group-title="",CWEA
 plugin://plugin.video.plutotv/play/live/63da370e2e477400081cf8b6
 #EXTINF:-1tvg-name="TSC"tvg-id="I16.15997.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/15997/s15997_ll_h15_ac.png/"group-title="",TSC
