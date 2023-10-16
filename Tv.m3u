@@ -240,7 +240,7 @@ http://503718662793597528.of230922.xyz:80/play/Javi817J/Javi817JM122/597528.ts
 #EXTINF:-1tvg-name="TCMC"tvg-id="I204.48815.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/48815/s48815_ll_h15_ab.png/"group-title="Movies",TCMC
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1tvg-name="AMCCAN"tvg-id="I205.52247.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/52247/s52247_ll_h15_aa.png/"group-title="",AMCCAN
-http://503718662793600883.of230922.xyz:80/play/Javi817J/Javi817JM122/600883.ts
+plugin://plugin.video.tvone11/play/17/1043/play.pvr
 #EXTINF:-1tvg-name="CMDY"tvg-id="I208.17595.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17595/s17595_ll_h15_ab.png/"group-title="",CMDY
 rtp://239.0.0.2:5001
 #EXTINF:-1tvg-name="SCIFIS"tvg-id="I209.17609.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17609/s17609_ll_h15_ac.png/"group-title="",SCIFIS
