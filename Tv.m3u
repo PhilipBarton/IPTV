@@ -122,7 +122,7 @@ plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.com
 #EXTINF:-1tvg-name="TSN3"tvg-id="I103.90118.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90118/s90118_ll_h15_aa.png/"group-title="",TSN3
 http://503718662793636262.of230922.xyz:80/play/Javi817J/Javi817JM122/636262.ts
 #EXTINF:-1tvg-name="TSN4"tvg-id="I104.90122.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90122/s90122_ll_h15_aa.png/"group-title="",TSN4
-http://503718662793620366.of230922.xyz:80/play/Javi817J/Javi817JM122/620366.ts
+plugin://plugin.video.tvone112/play/38/714/play.pvr
 #EXTINF:-1tvg-name="TSN5"tvg-id="I105.90124.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90124/s90124_ll_h15_aa.png/"group-title="",TSN5
 http://503718662793636263.of230922.xyz:80/play/Javi817J/Javi817JM122/636263.ts
 #EXTINF:-1tvg-name="MLBNC"tvg-id="I107.90155.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90155/s90155_ll_h15_aa.png/"group-title="",MLBNC
