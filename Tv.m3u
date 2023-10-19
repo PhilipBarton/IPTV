@@ -22,7 +22,7 @@ http://503718662793621741.of230922.xyz:80/play/Javi817J/Javi817JM122/621741.ts
 #EXTINF:-1 tvg-name="WMED" tvg-id="I8.11684.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11684/s11039_ll_h15_ab.png/"group-title="",WMED
 http://503718662793631008.of230922.xyz:80/play/Javi817J/Javi817JM122/631008.ts
 #EXTINF:-1tvg-name="WBTSSD"tvg-id="I9.112743.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/112743/s10991_ll_h15_ad.png/"group-title="",WBTSSD
-plugin://plugin.video.tvone11/play/158/play.pvr
+plugin://plugin.video.tvone112/play/158/play.pvr
 #EXTINF:-1tvg-name="WFXT"tvg-id="I10.11456.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11456/s10212_ll_h15_ab.png/"group-title="",WFXT
 plugin://plugin.video.tvone11/play/5/149/play.pvr
 #EXTINF:-1tvg-name="WCVBSAT"tvg-id="I11.70809.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/70809/s10003_ll_h15_ac.png/"group-title="",WCVBSAT
