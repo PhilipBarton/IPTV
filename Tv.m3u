@@ -79,8 +79,8 @@ http://503718662793634066.of230922.xyz:80/play/Javi817J/Javi817JM122/634066.ts
 http://503718662793631008.of230922.xyz:80/play/Javi817J/Javi817JM122/631008.ts
 #EXTINF:-1tvg-name="MAKEFLS"tvg-id="I50.99429.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/99429/s99429_ll_h15_aa.png/"group-title="",MAKEFLS
 http://503718662793614444.of230922.xyz:80/play/Javi817J/Javi817JM122/614444.ts
-#EXTINF:-1tvg-name="EPGLOOR"tvg-id="I51.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png/"group-title="",EPGLOOR
-rtp://239.0.0.2:5001
+#EXTINF:-1tvg-name="EPGFLOOR"tvg-id="I51.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png/"group-title="politics",st. John's house of commons
+https://csg002-harmony.sliq.net/00307-live/video1000/chunklist.m3u8?ContentEntity=30542
 #EXTINF:-1tvg-name="EPGLOOR"tvg-id="I52.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png/"group-title="",EPGLOOR
 rtp://239.0.0.2:5001
 #EXTINF:-1tvg-name="EPGLOOR"tvg-id="I53.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png/"group-title="",EPGLOOR
