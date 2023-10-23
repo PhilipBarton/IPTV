@@ -258,7 +258,7 @@ http://503718662793634581.of230922.xyz:80/play/Javi817J/Javi817JM122/634581.ts
 #EXTINF:-1tvg-name="MAKEFLS"tvg-id="I213.99429.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/99429/s99429_ll_h15_aa.png/"group-title="",MAKEFLS
 http://503718662793614444.of230922.xyz:80/play/Javi817J/Javi817JM122/614444.ts
 #EXTINF:-1tvg-name="GAMETV"tvg-id="I214.48727.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/48727/s48727_ll_h15_ab.png/"group-title="",GAMETV
-http://503718662793614430.of230922.xyz:80/play/Javi817J/Javi817JM122/614430.ts
+plugin://plugin.video.tvone1112/play/1921/play.pvr
 #EXTINF:-1tvg-name="CMT"tvg-id="I216.15072.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/15072/s15072_ll_h15_aa.png/"group-title="",CMT
 http://503718662793614404.of230922.xyz:80/play/Javi817J/Javi817JM122/614404.ts
 #EXTINF:-1tvg-name="LIFES"tvg-id="I217.18808.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18808/s18808_ll_h15_ab.png/"group-title="",LIFES
@@ -272,12 +272,11 @@ http://503718662793634064.of230922.xyz:80/play/Javi817J/Javi817JM122/634064.ts
 #EXTINF:-1tvg-name="TNF"tvg-id="I232.115832.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/115832/s115832_ll_h15_aa.png/"group-title="",TNF
 rtp://239.0.0.2:5001
 #EXTINF:-1tvg-name="CBNEWS"tvg-id="I233.10094.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10094/s10094_ll_h15_ad.png/"group-title="",CBNEWS
-http://503718662793633031.of230922.xyz:80/play/Javi817J/Javi817JM122/633031.ts
+plugin://plugin.video.ghosttv/?url=https%3A%2F%2Fcsm-e-eb.csm.tubi.video%2Fcsm%2Fextlive%2Ftubiprd01%2CCloudfront-CBC.m3u8&amp;mode=12
 #EXTINF:-1tvg-name="CNN"tvg-id="I234.10142.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10142/s10142_ll_h15_aa.png/"group-title="",CNN
 plugin://plugin.video.tvone112/play/145/2442/play.pvr
 #EXTINF:-1tvg-name="NEWSNET"tvg-id="I235.17615.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17615/s17615_ll_h9_ab.png/"group-title="",NEWSNET
-http://503718662793577551.of230922.xyz:80/play/Javi817J/Javi817JM122/577551.ts
-#EXTINF:-1tvg-name="CNBCC"tvg-id="I236.18141.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18141/s18141_ll_h15_aa.png/"group-title="",CNBCC
+https://univtec.g-mana.live/media/f7a2e644-2023-4241-85a4-9da6eb98fb56/profile/0/profileManifest.m3u8?_uid=868cf27e-2bf0-43e6-8711-ea05e381238b&rK=a2&_did=d9fe4831b210ea6d5f3f482d3ca58907f47c4a61#EXTINF:-1tvg-name="CNBCC"tvg-id="I236.18141.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18141/s18141_ll_h15_aa.png/"group-title="",CNBCC
 plugin://plugin.video.tvone112/play/145/2413/play.pvr
 #EXTINF:-1tvg-name="HLN"tvg-id="I237.10145.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10145/s10145_ll_h15_ac.png/"group-title="",HLN
 plugin://plugin.video.tvone112/play/145/2430/play.pvr
