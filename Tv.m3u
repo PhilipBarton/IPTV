@@ -50,9 +50,9 @@ http://503718662793614404.of230922.xyz:80/play/Javi817J/Javi817JM122/614404.ts
 #EXTINF:-1tvg-name="APTNE"tvg-id="I23.59663.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59663/s59663_ll_h15_aa.png/"group-title="",APTNE
 rtp://239.0.0.2:5001
 #EXTINF:-1tvg-name="CP24"tvg-id="I24.18168.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18168/s18168_ll_h15_aa.png/"group-title="",CP24
-http://503718662793636244.of230922.xyz:80/play/Javi817J/Javi817JM122/636244.ts
+plugin://plugin.video.tvone1112/play/1914/play.pvr
 #EXTINF:-1tvg-name="JTV"tvg-id="I25.16604.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/16604/s16604_ll_h15_ab.png/"group-title="",JTV
-rtp://239.0.0.2:5001
+https://cdn3.wowza.com/1/eUdsNEcyMmRvckor/K3pydHZw/hls/live/playlist.m3u8
 #EXTINF:-1tvg-name="OMNI"tvg-id="I28.105354.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/105354/s105354_ll_h15_ab.png/"group-title="",OMNI
 http://503718662793633923.of230922.xyz:80/play/Javi817J/Javi817JM122/633923.ts
 #EXTINF:-1tvg-name="CBUT"tvg-id="I29.10100.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10100/s10084_ll_h15_ab.png/"group-title="",CBUT
