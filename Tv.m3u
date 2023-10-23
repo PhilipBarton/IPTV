@@ -40,13 +40,13 @@ https://tscamd.akamaized.net/hls/live/503340/TSCLive/video_1/video_1.m3u8
 #EXTINF:-1tvg-name="CICA"tvg-id="I18.10119.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10119/s10119_ll_h15_ab.png/"group-title="",CICA
 http://503718662793310096.of230922.xyz:80/play/Javi817J/Javi817JM122/310096.ts
 #EXTINF:-1tvg-name="CITY"tvg-id="I19.10125.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10125/s10125_ll_h15_ab.png/"group-title="",CITY
-rtp://239.0.0.2:5001
+plugin://plugin.video.tvone112/play/145/2402/play.pvr
 #EXTINF:-1tvg-name="TREEC"tvg-id="I20.17639.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17639/s17639_ll_h15_ab.png/"group-title="kids",TREEC
 plugin://plugin.video.tvone1112/play/2100/play.pvr
 #EXTINF:-1tvg-name="YTV"tvg-id="I21.12045.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/12045/s12045_ll_h9_ab.png/"group-title="kids",YTV
 plugin://plugin.video.tvone1112/play/1936/play.pvr
 #EXTINF:-1tvg-name="CMT"tvg-id="I22.15072.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/15072/s15072_ll_h15_aa.png/"group-title="",CMT
-http://503718662793614404.of230922.xyz:80/play/Javi817J/Javi817JM122/614404.ts
+plugin://plugin.video.tvone112/play/145/2412/play.pvr
 #EXTINF:-1tvg-name="APTNE"tvg-id="I23.59663.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59663/s59663_ll_h15_aa.png/"group-title="",APTNE
 rtp://239.0.0.2:5001
 #EXTINF:-1tvg-name="CP24"tvg-id="I24.18168.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18168/s18168_ll_h15_aa.png/"group-title="",CP24
