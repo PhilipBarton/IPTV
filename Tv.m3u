@@ -30,7 +30,7 @@ http://503718662793636238.of230922.xyz:80/play/Javi817J/Javi817JM122/636238.ts
 #EXTINF:-1tvg-name="CJON"tvg-id="I12.14926.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/14926/s14926_ll_h15_aa.png/"group-title="",CJON
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8
 #EXTINF:-1tvg-name="CBNEWS"tvg-id="I13.10094.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10094/s10094_ll_h15_ad.png/"group-title="",CBNEWS
-plugin://plugin.video.tvone112/play/145/2398/play.pvr
+plugin://plugin.video.ghosttv/?url=https%3A%2F%2Fcsm-e-eb.csm.tubi.video%2Fcsm%2Fextlive%2Ftubiprd01%2CCloudfront-CBC.m3u8&amp;mode=12
 #EXTINF:-1tvg-name="CWEA"tvg-id="I14.10170.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10170/s10170_ll_h15_aa.png/"group-title="",CWEA
 https://d3f6rv2ihfj09x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4l4ssesb90374-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1tvg-name="CWEA"tvg-id="I15.10170.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10170/s10170_ll_h15_aa.png/"group-title="",CWEA
@@ -238,9 +238,9 @@ http://503718662793631009.of230922.xyz:80/play/Javi817J/Javi817JM122/631009.ts
 #EXTINF:-1tvg-name="SHCASEC"tvg-id="I201.15085.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/15085/s15085_ll_h15_aa.png/"group-title="",SHCASEC
 http://503718662793620356.of230922.xyz:80/play/Javi817J/Javi817JM122/620356.ts
 #EXTINF:-1tvg-name="ARTSC"tvg-id="I202.10036.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10036/s10036_ll_h15_aa.png/"group-title="",ARTSC
-http://503718662793579995.of230922.xyz:80/play/Javi817J/Javi817JM122/579995.ts
+plugin://plugin.video.tvone1112/play/2092/play.pvr
 #EXTINF:-1tvg-name="DRAMAS"tvg-id="I203.15176.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/15176/s15176_ll_h15_ab.png/"group-title="",DRAMAS
-http://503718662793597528.of230922.xyz:80/play/Javi817J/Javi817JM122/597528.ts
+plugin://plugin.video.tvone112/play/145/2394/play.pvr
 #EXTINF:-1tvg-name="TCMC"tvg-id="I204.48815.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/48815/s48815_ll_h15_ab.png/"group-title="Movies",TCMC
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1tvg-name="AMCCAN"tvg-id="I205.52247.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/52247/s52247_ll_h15_aa.png/"group-title="",AMCCAN
@@ -428,6 +428,7 @@ http://503718662793623226.of230922.xyz:80/play/Javi817J/Javi817JM122/623226.ts
 http://503718662793636242.of230922.xyz:80/play/Javi817J/Javi817JM122/636242.ts
 #EXTINF:-1tvg-name="APTNHD"tvg-id="I414.61998.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/61998/s61998_ll_h15_aa.png/"group-title="",APTNHD
 #EXTINF:-1tvg-name="ARTSCHD"tvg-id="I415.55097.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/55097/s55097_ll_h9_aa.png/"group-title="",ARTSCHD
+plugin://plugin.video.tvone1112/play/2092/play.pvr
 #EXTINF:-1tvg-name="SHCSCHD"tvg-id="I416.53711.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/53711/s53711_ll_h15_aa.png/"group-title="",SHCSCHD
 #EXTINF:-1tvg-name="AMCCHD"tvg-id="I417.64831.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/64831/s64831_ll_h15_ac.png/"group-title="",AMCCHD
 #EXTINF:-1tvg-name="WPCHDT"tvg-id="I418.32795.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/32795/s32795_ll_h15_aa.png/"group-title="",WPCHDT
