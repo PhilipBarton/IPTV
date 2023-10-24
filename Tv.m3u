@@ -89,8 +89,8 @@ https://csg002-harmony.sliq.net/00307-live/video1000/chunklist.m3u8?ContentEntit
 #EXTINF:-1tvg-name="EPGLOOR"tvg-id="I52.27733.zap2it.com"tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-classic/logo_20220801_200458_68.png"group-title="Movies",Bollywood Classics
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/515028d0-c890-4491-bb9c-34af9ebd92fa/1.m3u8
 #EXTINF:-1tvg-name="EPGLOOR"tvg-id="I53.27733.zap2it.com"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHrhbt9brjBiU3c_4e-ee0lagFWhQXBGZWGA&usqp=CAU"group-title="Movies",Film Detective
-#KODIPROP:inputstream=inputstream.adaptive
-https://amg01201-cinedigmenterta-filmdetective-cineverse-q86jq.amagi.tv/playlist/amg01201-cinedigmenterta-filmdetective-cineverse/cb573d1b726c67909bcf3f78d2f5468260371fde1d6988693eb5518975d10725dce2b48be65b9e3608dd4087351a6a4f5d6cdb6e8f205
+plugin://plugin.video.fidoK19/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiVGhlIEZpbG0gRGV0ZWN0aXZlIiwgImxpbmsiOiAiaHR0cHM6Ly9kYWkuZ29vZ2xlLmNvbS9saW5lYXIvaGxzL2V2ZW50LzRBblowb2hRVGZpT3E4MFR4RkdiMFEvbWFzdGVyLm0zdTgiLCAidGh1bWJuYWlsIjogImh0dHBzOi8vZDE0YzYzbWFndms2MXYuY2xvdWRmcm9udC5uZXQvaGxzLzIyNzU5L3RoZS1maWxtLWRldGVjdGl2ZS9sb2dvXzIwMTkxMjEyXzIzMDkzNi5wbmcifQ==
+
 #EXTINF:-1tvg-name="EPGLOOR"tvg-id="I54.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png/"group-title="Moviea",Horror Machine 
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/horrormachine/7cddc474-dda8-43f5-9e72-225f527e7735/4.m3u8
 #EXTINF:-1tvg-name="EPGLOOR"tvg-id="I55.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png/"group-title="",EPGLOOR
