@@ -89,7 +89,7 @@ https://csg002-harmony.sliq.net/00307-live/video1000/chunklist.m3u8?ContentEntit
 #EXTINF:-1tvg-name="EPGLOOR"tvg-id="I52.27733.zap2it.com"tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-classic/logo_20220801_200458_68.png"group-title="Movies",Bollywood Classics
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/515028d0-c890-4491-bb9c-34af9ebd92fa/1.m3u8
 #EXTINF:-1tvg-name="EPGLOOR"tvg-id="I53.27733.zap2it.com"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHrhbt9brjBiU3c_4e-ee0lagFWhQXBGZWGA&usqp=CAU"group-title="Movies",Film Detective
-plugin://plugin.video.megaiptv/?name=The+Film+Detective&amp;url=https%3A%2F%2Fcdn-uw2-prod.tsv2.amagi.tv%2Flinear%2Famg01201-cinedigmenterta-filmdetective-cineverse%2Fplaylist.m3u8&amp;mode=3&amp;icon=https%3A%2F%2Fi.imgur.com%2FyfOwmsP.png&amp;fanart=&amp;description=Channels&amp;channeldata=%7B%22tvg_id%22%3A+%22TheFilmDetective.us%22%2C+%22tvg_name%22%3A+%22The+Film+Detective%22%2C+%22tvg_country%22%3A+%22%22%2C+%22tvg_language%22%3A+%22%22%2C+%22tvg_logo%22%3A+%22https%3A%2F%2Fi.imgur.com%2FyfOwmsP.png%22%2C+%22group_title%22%3A+%22United+States%22%2C+%22channel_name%22%3A+%22The+Film+Detective%22%2C+%22stream_url%22%3A+%22https%3A%2F%2Fcdn-uw2-prod.tsv2.amagi.tv%2Flinear%2Famg01201-cinedigmenterta-filmdetective-cineverse%2Fplaylist.m3u8%22%2C+%22weight%22%3A+0.2222222222222222%7D
+plugin://plugin.video.megaiptv
 
 #EXTINF:-1tvg-name="EPGLOOR"tvg-id="I54.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png/"group-title="Moviea",Horror Machine 
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/horrormachine/7cddc474-dda8-43f5-9e72-225f527e7735/4.m3u8
