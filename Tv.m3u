@@ -28,6 +28,11 @@ plugin://plugin.video.tvone11/play/5/149/play.pvr
 #EXTINF:-1tvg-name="WCVBSAT"tvg-id="I11.70809.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/70809/s10003_ll_h15_ac.png/"group-title="",WCVBSAT
 http://503718662793636238.of230922.xyz:80/play/Javi817J/Javi817JM122/636238.ts
 #EXTINF:-1tvg-name="CJON"tvg-id="I12.14926.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/14926/s14926_ll_h15_aa.png/"group-title="",CJON
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8
 #EXTINF:-1tvg-name="CBNEWS"tvg-id="I13.10094.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10094/s10094_ll_h15_ad.png/"group-title="",CBNEWS
 plugin://plugin.video.ghosttv/?url=https%3A%2F%2Fcsm-e-eb.csm.tubi.video%2Fcsm%2Fextlive%2Ftubiprd01%2CCloudfront-CBC.m3u8&amp;mode=12
@@ -81,11 +86,6 @@ http://503718662793631008.of230922.xyz:80/play/Javi817J/Javi817JM122/631008.ts
 http://503718662793614444.of230922.xyz:80/play/Javi817J/Javi817JM122/614444.ts
 #EXTINF:-1tvg-name="EPGFLOOR"tvg-id="I51.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png/"group-title="politics",st. John's house of commons
 https://csg002-harmony.sliq.net/00307-live/video1000/chunklist.m3u8?ContentEntity=30542
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1tvg-name="EPGLOOR"tvg-id="I52.27733.zap2it.com"tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-classic/logo_20220801_200458_68.png"group-title="Movies",Bollywood Classics
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/515028d0-c890-4491-bb9c-34af9ebd92fa/1.m3u8
 #EXTINF:-1tvg-name="EPGLOOR"tvg-id="I53.27733.zap2it.com"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHrhbt9brjBiU3c_4e-ee0lagFWhQXBGZWGA&usqp=CAU"group-title="Movies",Film Detective
