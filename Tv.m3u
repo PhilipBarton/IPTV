@@ -92,7 +92,7 @@ https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-62d1a58e5206
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8
 
 #EXTINF:-1tvg-name="EPGLOOR"tvg-id="I54.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png/"group-title="Moviea",Horror Machine 
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/horrormachine/7cddc474-dda8-43f5-9e72-225f527e7735/4.m3u8
+https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?advertisingId=&appName=&appStoreUrl=&appVersion=2.0.0&app_na4.m3u8
 #EXTINF:-1tvg-name="EPGLOOR"tvg-id="I55.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png/"group-title="",EPGLOOR
 rtp://239.0.0.2:5001
 #EXTINF:-1tvg-name="CPAC"tvg-id="I63.17608.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17608/s17608_ll_h15_ae.png/"group-title="",CPAC
