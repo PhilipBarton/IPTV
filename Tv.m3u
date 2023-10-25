@@ -87,7 +87,9 @@ http://503718662793614444.of230922.xyz:80/play/Javi817J/Javi817JM122/614444.ts
 #EXTINF:-1tvg-name="EPGFLOOR"tvg-id="I51.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png/"group-title="politics",st. John's house of commons
 https://csg002-harmony.sliq.net/00307-live/video1000/chunklist.m3u8?ContentEntity=30542
 #EXTINF:-1tvg-name="EPGLOOR"tvg-id="I52.27733.zap2it.com"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Shemaroo_TV.svg/revision/latest?cb=20200430025535"group-title="Movies",Shemaroo TV
-plugin://slyguy.plex.live/?_=play&amp;_play=1&amp;id=5e20b730f2f8d5003d739db7-62d1a58e520656fda09e609d&amp;_is_live=1&amp;_noresume=.pvr
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62d1a58e520656fda09e609d.m3u8
 #EXTINF:-1tvg-name="EPGLOOR"tvg-id="I53.27733.zap2it.com"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHrhbt9brjBiU3c_4e-ee0lagFWhQXBGZWGA&usqp=CAU"group-title="Movies",Film Detective
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8
 
