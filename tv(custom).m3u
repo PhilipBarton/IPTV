@@ -1,4 +1,4 @@
-#EXTM3U tvg-url="https://i.mjh.nz/Plex/us.xml"
+#EXTM3U tvg-url="https://i.mjh.nz/Plex/us.xml.gz"
 #EXTINF:-1tvg-name="FIBETV1"tvg-id="I1.96458.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="",FIBETV1 
 rtp://239.0.0.2:5001
 #EXTINF:-1tvg-name="CBNT"tvg-id="I3.17400.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17400/s10084_ll_h15_ab.png"group-title="",CBNT
