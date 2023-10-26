@@ -1,4 +1,4 @@
-#EXTM3U TVG-URL="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/c55780758bd90d224c916a3bac8e5fe8b3e3506f/Plex/us.xml"
+#EXTM3U  x-tvg-url="https://i.mjh.nz/Plex/us.xml"
 #EXTINF:-1tvg-name="FIBETV1"tvg-id="I1.96458.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="",FIBETV1 
 rtp://239.0.0.2:5001
 #EXTINF:-1tvg-name="CBNT"tvg-id="I3.17400.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17400/s10084_ll_h15_ab.png"group-title="",CBNT
@@ -86,7 +86,7 @@ http://503718662793631008.of230922.xyz:80/play/Javi817J/Javi817JM122/631008.ts
 http://503718662793614444.of230922.xyz:80/play/Javi817J/Javi817JM122/614444.ts
 #EXTINF:-1tvg-name="EPGFLOOR"tvg-id="I51.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png/"group-title="politics",st. John's house of commons
 https://csg002-harmony.sliq.net/00307-live/video1000/chunklist.m3u8?ContentEntity=30542
-#EXTINF:-1tvg-name="Shemaroo"tvg-id="5e20b730f2f8d5003d739db7-62d1a58e520656fda09e609d"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Shemaroo_TV.svg/revision/latest?cb=20200430025535"group-title="Movies",Shemaroo TV
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-62d1a58e520656fda09e609d" tvg-id="5e20b730f2f8d5003d739db7-62d1a58e520656fda09e609d" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aca5fb4a-3f31-4527-82d4-80b718821f1f/ShemarooBollywood_logo_dark_-_Shemaroo_USArdx.png" , Shemaroo Bollywood
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62d1a58e520656fda09e609d.m3u8
