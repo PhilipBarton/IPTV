@@ -95,7 +95,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetective
 
 #EXTINF:-1tvg-name="EPGLOOR"tvg-id="I54.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png/"group-title="Movies",Scream Box
 https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8
-#EXTINF:-1tvg-name="EPGLOOR"tvg-id="I55.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png/"group-title="Mobies",Shout Factory TV
+#EXTINF:-1tvg-name="EPGLOOR"tvg-id="I55.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png/"group-title="Movies",Shout Factory TV
 https://amg00163-shoutfactory-shoutfactory-dmr-maeqc.amagi.tv/playlist/amg00163-shoutfactory-shoutfactory-dmr/playlist.m3u8
 #EXTINF:-1tvg-name="CPAC"tvg-id="I63.17608.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17608/s17608_ll_h15_ae.png/"group-title="",CPAC
 http://503718662793340199.of230922.xyz:80/play/Javi817J/Javi817JM122/340199.ts
@@ -127,7 +127,7 @@ http://503718662793636246.of230922.xyz:80/play/Javi817J/Javi817JM122/636246.ts
 http://503718662793636246.of230922.xyz:80/play/Javi817J/Javi817JM122/636246.ts
 #EXTINF:-1tvg-name="CFCNDT"tvg-id="I87.62890.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/62890/s62890_ll_h15_aa.png/"group-title="",CFCNDT
 http://503718662793636246.of230922.xyz:80/play/Javi817J/Javi817JM122/636246.ts
-#EXTINF:-1tvg-name="TSN1"tvg-id="I100.11182.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11182/s11182_ll_h15_aa.png/"group-title="",TSN1
+#EXTINF:-1tvg-name="TSN1"tvg-id="I100.11182.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11182/s11182_ll_h15_aa.png/"group-title="Sports",TSN1
 plugin://plugin.video.tvone112/play/38/702/play.pvr
 #EXTINF:-1tvg-name="TSN2"tvg-id="I102.18990.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18990/s18990_ll_h15_ab.png/"group-title="",TSN2
 plugin://plugin.video.tvone112/play/38/703/play.pvr
