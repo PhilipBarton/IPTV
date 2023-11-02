@@ -352,8 +352,8 @@ http://503718662793633052.of230922.xyz:80/play/Javi817J/Javi817JM122/633052.ts
 http://503718662793633915.of230922.xyz:80/play/Javi817J/Javi817JM122/633915.ts
 #EXTINF:-1tvg-name="AHCC"tvg-id="I293.29008.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/29008/s18284_ll_h15_aa.png"group-title="",AHCC
 #EXTINF:-1tvg-name="IDC"tvg-id="I296.26884.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/26884/s26884_ll_h15_ab.png"group-title="",IDC
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5819" tvg-id="5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5819" tvg-logo="https://provider-static.plex.tv/9/epg/channels/logos/gracenote/917c162e1af472f9d021154ef49f78eb.png" , FilmRise Anime
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5819.m3u8
+#EXTINF:-1 tvg-name="FUJI TV" tvg-id="10816" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2023/05/25/large/20230525152207961164_64.png" group-title="Generic",[HD]fuji tv
+https://epg.pw/stream/081cd3e784964f8856113e66e3e6ed8b36345f40acfdf9b113d7cb51609fcb20.ctv
 #EXTINF:-1tvg-name="BELLPV"tvg-id="I332.115155.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="",BELLPV
 #EXTINF:-1tvg-name="NFLX"tvg-id="I333.97741.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/97741/s70912_ll_h15_aa.png"group-title="",NFLX
 #EXTINF:-1tvg-name="YOUTB"tvg-id="I334.101209.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="",YOUTB
