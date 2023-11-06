@@ -239,7 +239,7 @@ rtp://239.0.0.2:5001
 rtp://239.0.0.2:5001
 #EXTINF:-1tvg-name="EPGLOOR"tvg-id="I195.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="",EPGLOOR
 rtp://239.0.0.2:5001
-#EXTINF:-1 tvg-name="9xm" tvg-id="10394" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="Music",9XM
+#EXTINF:-1 tvg-name="9xm" tvg-id="10394" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2015/11/28/large/20151128144519304137_59.jpg" group-title="Entertainment",[VGA]9xm
 https://dishtvtest.akamaized.net/280723/smil:9xmusic.smil/chunklist_b1928000.m3u8
 #EXTINF:-1tvg-name="WPCH"tvg-id="I200.19556.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19556/s19556_ll_h15_aa.png"group-title="",WPCH
 http://503718662793631009.of230922.xyz:80/play/Javi817J/Javi817JM122/631009.ts
