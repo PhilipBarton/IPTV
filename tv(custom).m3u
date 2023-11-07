@@ -231,7 +231,7 @@ rtp://239.0.0.2:5001
 rtp://239.0.0.2:5001
 #EXTINF:-1tvg-name="EPGLOOR"tvg-id="I191.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="",EPGLOOR
 rtp://239.0.0.2:5001
-#EXTINF:-1tvg-name="kpop"tvg-id="I192.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="Music, Korean",kpop
+#EXTINF:-1tvg-name="kpop"tvg-id="I192.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="Music",KPOP
 https://tvlive.sbs.co.kr/sbskpop/sbskpop2.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2OTkzMjA2MjEsInBhdGgiOiIvc2Jza3BvcDIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI5MDU5MDgzOS0zMGZmLTRkZjMtYWQyNS0yNDUyODMzNWMwNDgiLCJpYXQiOjE2OTkzMTM0MjF9.yOpZscvG0KmuDP6eLnr9xDe5R7rKUzW21rDgMzQT_oA&solsessionid=1e18dfe748b80abdf4793608b373a35c#EXTINF:-1tvg-name="EPGLOOR"tvg-id="I193.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="",EPGLOOR
 #EXTINF:-1tvg-name="EPGLOOR"tvg-id="I194.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="Korean",SbS plus
 https://tvlive.sbs.co.kr/sbspluspc/sbsplus1.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2OTkzMTMzMjUsInBhdGgiOiIvc2JzcGx1czEuc3RyZWFtIiwiZHVyYXRpb24iOjE4MCwidW5vIjoiNWFlZDMxODktOGQ0ZS00ZTU1LTk1YjQtYzNmYzFhZmQ5ZjU4IiwiaWF0IjoxNjk5MzEzMTQ1fQ.Jzr6X6ZWDfGMAXwgn1R5oL-GcWX6qB170pkdTuvBEQs&solsessionid=2c4a0cbec4c6f6cae48bf97854fc80bd#EXTINF:-1tvg-name="EPGLOOR"tvg-id="I195.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="",EPGLOOR
