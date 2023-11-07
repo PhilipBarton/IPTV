@@ -403,8 +403,9 @@ rtp://239.0.0.2:5001
 rtp://239.0.0.2:5001
 #EXTINF:-1tvg-name="EPGLOOR"tvg-id="I393.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="",EPGLOOR
 rtp://239.0.0.2:5001
-#EXTINF:-1tvg-name="EPGLOOR"tvg-id="I394.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="",EPGLOOR
-rtp://239.0.0.2:5001
+
+#EXTINF:-1 channel-id="pluto-6475bfec536e0c0008858e9f" tvg-id="6475bfec536e0c0008858e9f" tvg-logo="https://images.pluto.tv/channels/6475bfec536e0c0008858e9f/colorLogoPNG.png" tvg-chno="108" group-title="Spain" , Pluto TV K-Drama
+https://i.mjh.nz/PlutoTV/6475bfec536e0c0008858e9f-alt.m3u8
 #EXTINF:-1tvg-name="EPGLOOR"tvg-id="I395.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="",EPGLOOR
 rtp://239.0.0.2:5001
 #EXTINF:-1tvg-name="JTVHD"tvg-id="I397.65556.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/65556/s65556_ll_h15_ab.png"group-title="",JTVHD
