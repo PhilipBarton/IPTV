@@ -936,8 +936,8 @@ plugin://plugin.video.cbc/smil?url=https%3A%2F%2Flink.theplatform.com%2Fs%2FExhS
 plugin://plugin.video.lntv/play/2097/play.pvr
 #EXTINF:-1tvg-name="YOUTB"tvg-id="I988.101209.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="",YOUTB
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_uk_stingrayqello_001.m3u8
-#EXTINF:-1tvg-name="EPGLOOR"tvg-id="I994.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="Music",EPGLOOR
-plugin://plugin.video.lntv/play/1971/play.pvr
+#EXTINF:-1tvg-name="EPGLOOR"tvg-id="I994.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="Music",City TV Music
+https://tv.city.bg/play/tshls/citytv/3.m3u8
 #EXTINF:-1tvg-name="EPGLOOR"tvg-id="I999.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="Music",Gaan Bangla
 https://tvs1.aynaott.com/gaanbangla/tracks-v1a1/mono.m3u8?hdnts=st=1699587614~exp=1699630814~acl=/*~data=45.61.146.183-WEB~hmac=f0c1466a368c892e038d573559a9a2b883dbcecb65d60d5cfcc7fa68d6c75740
 #EXTINF:-1tvg-name="EPGLOOR"tvg-id="I1000.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="Music",EPGLOOR
