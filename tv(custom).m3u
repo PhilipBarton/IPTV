@@ -603,8 +603,8 @@ ttp://503718662793620354.of230922.xyz:80/play/Javi817J/Javi817JM122/620354.ts
 #EXTINF:-1tvg-name="H2CHD"tvg-id="I545.81208.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/81208/s81208_ll_h15_ac.png"group-title="",H2CHD
 #EXTINF:-1tvg-name="MTV2CHD"tvg-id="I546.106150.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/106150/s26775_ll_h15_aa.png"group-title="",MTV2CHD
 #EXTINF:-1tvg-name="RFDCAN"tvg-id="I547.113875.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/113875/s113875_ll_h15_aa.png"group-title="",RFDCAN
-#EXTINF:-1tvg-name="EPGLOOR"tvg-id="I549.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="",EPGLOOR
-rtp://239.0.0.2:5001
+#EXTINF:-1tvg-name="musicatv"tvg-id="I549.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="Music", Musica Tv
+https://etslive-2-vidio-com.secureswiftcontent.com/exp=1699735004~acl=/hls-p/ingest_7619_*/*~hmac=d8bc14bba64f03bf404a8e0896cc18cf3b3406235f25c0027c1f62bda84367f1/hls-p/ingest_7619_360p/index.m3u8
 #EXTINF:-1tvg-name="EPGLOOR"tvg-id="I550.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="",EPGLOOR
 rtp://239.0.0.2:5001
 #EXTINF:-1tvg-name="EPGLOOR"tvg-id="I551.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="",EPGLOOR
