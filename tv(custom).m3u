@@ -229,7 +229,7 @@ rtp://239.0.0.2:5001
 rtp://239.0.0.2:5001
 #EXTINF:-1tvg-name="CJCHDT"tvg-id="I184.72780.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/72780/s10108_ll_h15_ab.png"group-title="",CJCHDT
 rtp://239.0.0.2:5001
-#EXTINF:-1tvg-name="EPGLOOR"tvg-id="I191.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="",vevo 70s
+#EXTINF:-1tvg-name="vevo70s"tvg-id="I191.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="Music",vevo 70s
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=
 #EXTINF:-1tvg-name="kpop"tvg-id="I192.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="Music",KPOP
 https://tvlive.sbs.co.kr/sbskpop/sbskpop2.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2OTkzMjA2MjEsInBhdGgiOiIvc2Jza3BvcDIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI5MDU5MDgzOS0zMGZmLTRkZjMtYWQyNS0yNDUyODMzNWMwNDgiLCJpYXQiOjE2OTkzMTM0MjF9.yOpZscvG0KmuDP6eLnr9xDe5R7rKUzW21rDgMzQT_oA&solsessionid=1e18dfe748b80abdf4793608b373a35c#EXTINF:-1tvg-name="EPGLOOR"tvg-id="I193.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="",EPGLOOR
