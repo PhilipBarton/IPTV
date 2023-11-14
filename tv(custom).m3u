@@ -405,6 +405,8 @@ https://canal.mediaserver.com.co/live/canalamordiscos.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&cha
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60d4edd8b2fdec002c14112f" tvg-id="5e20b730f2f8d5003d739db7-60d4edd8b2fdec002c14112f" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/rakutenviki_logo_dark.png" group-title="Korean" , Rakuten Viki
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-60d4edd8b2fdec002c14112f.m3u8
 #EXTINF:-1tvg-name="afrobeats"tvg-id="I395.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="Music",Afro Beats
 https://stream.ecable.tv/afrobeats/index.m3u8
