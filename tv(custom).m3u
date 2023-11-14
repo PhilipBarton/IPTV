@@ -404,8 +404,8 @@ https://canal.mediaserver.com.co/live/canalamordiscos.m3u8
 #EXTINF:-1tvg-name="vevo80s"tvg-id="5fd7b8bf927e090007685853"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="Music",vevo 80s
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&cha
 
-#EXTINF:-1 channel-id="pluto-6475bfec536e0c0008858e9f" tvg-id="6475bfec536e0c0008858e9f" tvg-logo="https://images.pluto.tv/channels/6475bfec536e0c0008858e9f/colorLogoPNG.png" tvg-chno="108" group-title="Spain" , Pluto TV K-Drama
-https://i.mjh.nz/PlutoTV/6475bfec536e0c0008858e9f-alt.m3u8
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60d4edd8b2fdec002c14112f" tvg-id="5e20b730f2f8d5003d739db7-60d4edd8b2fdec002c14112f" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/rakutenviki_logo_dark.png" group-title="Korean" , Rakuten Viki
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-60d4edd8b2fdec002c14112f.m3u8
 #EXTINF:-1tvg-name="afrobeats"tvg-id="I395.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="Music",Afro Beats
 https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1tvg-name="JTVHD"tvg-id="I397.65556.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/65556/s65556_ll_h15_ab.png"group-title="",JTVHD
