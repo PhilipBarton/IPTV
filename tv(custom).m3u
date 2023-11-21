@@ -236,6 +236,8 @@ https://tvlive.sbs.co.kr/sbskpop/sbskpop2.stream/chunklist.m3u8?token=eyJ0eXAiOi
 #EXTINF:-1tvg-name="EPGLOOR"tvg-id="I194.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="Korean",SbS plus
 https://tvlive.sbs.co.kr/sbspluspc/sbsplus1.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2OTkzMTMzMjUsInBhdGgiOiIvc2JzcGx1czEuc3RyZWFtIiwiZHVyYXRpb24iOjE4MCwidW5vIjoiNWFlZDMxODktOGQ0ZS00ZTU1LTk1YjQtYzNmYzFhZmQ5ZjU4IiwiaWF0IjoxNjk5MzEzMTQ1fQ.Jzr6X6ZWDfGMAXwgn1R5oL-GcWX6qB170pkdTuvBEQs&solsessionid=2c4a0cbec4c6f6cae48bf97854fc80bd#EXTINF:-1tvg-name="EPGLOOR"tvg-id="I195.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="",EPGLOOR
 #EXTINF:-1 tvg-name="9xm" tvg-id="10394" tvg-country="India" tvg-language="Hindi" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/9xm-black.png" group-title="Music",[VGA]9xm
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
 https://dishtvtest.akamaized.net/280723/smil:9xmusic.smil/chunklist_b1928000.m3u8
 #EXTINF:-1tvg-name="WPCH"tvg-id="I200.19556.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19556/s19556_ll_h15_aa.png"group-title="",WPCH
 http://503718662793631009.of230922.xyz:80/play/Javi817J/Javi817JM122/631009.ts
@@ -577,6 +579,8 @@ http://503718662793570078.of230922.xyz:80/play/Javi817J/Javi817JM122/570078.ts
 http://503718662793614446.of230922.xyz:80/play/Javi817J/Javi817JM122/614446.ts
 #EXTINF:-1tvg-name="ADSMH"tvg-id="I523.92160.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/92160/s92160_ll_h15_ac.png"group-title="",ADSMH
 #EXTINF:-1tvg-name="EPGLOOR"tvg-id="I524.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="Music",Nusantra tv
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 #EXTINF:-1tvg-name="EPGLOOR"tvg-id="I525.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="",EPGLOOR
 rtp://239.0.0.2:5001
@@ -606,6 +610,8 @@ ttp://503718662793620354.of230922.xyz:80/play/Javi817J/Javi817JM122/620354.ts
 #EXTINF:-1tvg-name="MTV2CHD"tvg-id="I546.106150.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/106150/s26775_ll_h15_aa.png"group-title="",MTV2CHD
 #EXTINF:-1tvg-name="RFDCAN"tvg-id="I547.113875.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/113875/s113875_ll_h15_aa.png"group-title="",RFDCAN
 #EXTINF:-1tvg-name="musicatv"tvg-id="I549.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="Music", Musica Tv
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
 https://etslive-2-vidio-com.secureswiftcontent.com/exp=1699735004~acl=/hls-p/ingest_7619_*/*~hmac=d8bc14bba64f03bf404a8e0896cc18cf3b3406235f25c0027c1f62bda84367f1/hls-p/ingest_7619_360p/index.m3u8
 #EXTINF:-1tvg-name="EPGLOOR"tvg-id="I550.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="",EPGLOOR
 rtp://239.0.0.2:5001
