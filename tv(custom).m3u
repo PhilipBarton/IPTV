@@ -398,11 +398,11 @@ http://503718662793618906.of230922.xyz:80/play/Javi817J/Javi817JM122/618906.ts
 #EXTINF:-1tvg-name="CIITDT"tvg-id="I389.72778.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/72778/s72778_ll_h15_ab.png"group-title="",CIITDT
 #EXTINF:-1tvg-name="CHNUDT"tvg-id="I390.72813.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/72813/s27503_ll_h15_aa.png"group-title="",CHNUDT
 #EXTINF:-1tvg-name="vevo90s"tvg-id="5fd7bb1f86d94a000796e2c2"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="Music", Vevo 90's
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=cha
+https://amg00056-vevotv-vevo80saunz-samsungnz-96vhe.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungnz/playlist.m3u8
 #EXTINF:-1tvg-name="amordisco"tvg-id="I392.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="Music",Amor Disco
 https://canal.mediaserver.com.co/live/canalamordiscos.m3u8
 #EXTINF:-1tvg-name="vevo80s"tvg-id="5fd7b8bf927e090007685853"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="Music",vevo 80s
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&cha
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo80saunz-samsungnz/playlist.m3u8
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60d4edd8b2fdec002c14112f" tvg-id="5e20b730f2f8d5003d739db7-60d4edd8b2fdec002c14112f" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/rakutenviki_logo_dark.png" group-title="Korean" , Rakuten Viki
 #KODIPROP:inputstream=inputstream.ffmpegdirect
