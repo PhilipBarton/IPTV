@@ -586,7 +586,7 @@ http://503718662793614446.of230922.xyz:80/play/Javi817J/Javi817JM122/614446.ts
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
-#EXTINF:-1tvg-name="KBS"tvg-id="I525.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="Korean",KBS
+#EXTINF:-1 tvg-name="KBS" tvg-id="I525.27733.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" group-title="Korean",KBS
 https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1701013917&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLzF0dl8zLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDEwMTM5MTd9fX1dfQ__&Signature=NlF6XC0wmzThT1O71Ve5ipeDJEQmZrX9RjZzdtDfeQ0yoW9rgXbDF7Hw-JImsHgEPF0fKjmmpAkeWkP121~na5i21edSKeH6TKMvw5x0OG4BjvA-lPyR2czvslJwmZQnx7xmPKx71HRcCAIXaQQC2lz9Ss~B2m1lrU~0jIeD~wOMKsHp0RfGfYp1xZDSzwowoCLhyjgm~HvaThUVKxgg7CeZ0rv9S~a4O1vl6NRUny1k4t5SQHEpxwALzPRCB29~gO3fKdRf~Z19YNwUnAaiJEjhiTmAeITSehip4Tx9gu7YpIb6gGVwBQfVsk9tDQKbNvbgc99tW-r~LIIvy~K3bw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1tvg-name="SEDM"tvg-id="I526.90887.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="",SEDM
 #EXTINF:-1tvg-name="MVNETOD"tvg-id="I527.67139.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="",MVNETOD
