@@ -595,8 +595,8 @@ https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1701013917&Policy=eyJTdGF0ZW1lbnQ
 #EXTINF:-1tvg-name="YTVDM"tvg-id="I530.69112.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/69112/s69112_ll_h9_aa.png"group-title="",YTVDM
 #EXTINF:-1tvg-name="FAMCCDM"tvg-id="I531.77598.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/77598/s77598_ll_h15_aa.png"group-title="",FAMCCDM
 #EXTINF:-1tvg-name="TREEDM"tvg-id="I532.46782.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/46782/s17639_ll_h15_ab.png"group-title="",TREEDM
-#EXTINF:-1tvg-name="EPGLOOR"tvg-id="I533.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="",EPGLOOR
-http://www.bell.tv
+#EXTINF:-1tvg-name="EPGLOOR"tvg-id="I533.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="",CCTV1
+http://cctvcnch5c.v.wscdns.com/live/cctv1_2/index.m3u8
 #EXTINF:-1tvg-name="CRAVE"tvg-id="I534.90995.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90995/s90995_ll_h15_aa.png"group-title="",CRAVE
 #EXTINF:-1tvg-name="FJRDM"tvg-id="I535.72106.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/72106/s72106_ll_h15_aa.png"group-title="",FJRDM
 #EXTINF:-1tvg-name="CRAVEOD"tvg-id="I536.113587.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="",CRAVEOD
