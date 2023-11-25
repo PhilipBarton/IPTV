@@ -54,8 +54,8 @@ plugin://plugin.video.tvone1112/play/1936/play.pvr
 plugin://plugin.video.tvone112/play/145/2412/play.pvr
 #EXTINF:-1tvg-name="APTNE"tvg-id="I23.59663.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59663/s59663_ll_h15_aa.png"group-title="",APTNE
 rtp://239.0.0.2:5001
-#EXTINF:-1tvg-name="CP24"tvg-id="I24.18168.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18168/s18168_ll_h15_aa.png"group-title="",CP24
-plugin://plugin.video.tvone1112/play/1914/play.pvr
+#EXTINF:-1tvg-name="CP24"tvg-id="I24.18168.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18168/s18168_ll_h15_aa.png"group-title="News",CP24
+https://capi.9c9media.com/destinations/cp24_web/platforms/desktop/bond/contents/68595/contentpackages/23172/manifest.mpd
 #EXTINF:-1tvg-name="JTV"tvg-id="I25.16604.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/16604/s16604_ll_h15_ab.png"group-title="shopping",JTV
 https://cdn3.wowza.com/1/eUdsNEcyMmRvckor/K3pydHZw/hls/live/playlist.m3u8
 #EXTINF:-1tvg-name="OMNI"tvg-id="I28.105354.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/105354/s105354_ll_h15_ab.png"group-title="",OMNI
@@ -90,7 +90,7 @@ https://csg002-harmony.sliq.net/00307-live/video1000/chunklist.m3u8?ContentEntit
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62d1a58e520656fda09e609d.m3u8
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7a3" tvg-id="5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7a3" tvg-logo="https://provider-static.plex.tv/4/epg/channels/logos/gracenote/451eef6dc017decca399d54abcf5340a.png" , The Film Detective
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7a3" tvg-id="5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7a3" tvg-logo="https://provider-static.plex.tv/4/epg/channels/logos/gracenote/451eef6dc017decca399d54abcf5340a.png" group-title="Movies", The Film Detective
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8
 
 #EXTINF:-1tvg-name="EPGLOOR"tvg-id="5e20b730f2f8d5003d739db7-641db53c2f7a0fca29488c99"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="Movies",Scream Box
@@ -131,31 +131,31 @@ http://503718662793636246.of230922.xyz:80/play/Javi817J/Javi817JM122/636246.ts
 plugin://plugin.video.tvone112/play/38/702/play.pvr
 #EXTINF:-1tvg-name="TSN2"tvg-id="I102.18990.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18990/s18990_ll_h15_ab.png"group-title="sports",TSN2
 plugin://plugin.video.tvone112/play/38/703/play.pvr
-#EXTINF:-1tvg-name="TSN3"tvg-id="I103.90118.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90118/s90118_ll_h15_aa.png"group-title="",TSN3
+#EXTINF:-1tvg-name="TSN3"tvg-id="I103.90118.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90118/s90118_ll_h15_aa.png"group-title="Sports",TSN3
 plugin://plugin.video.tvone112/play/38/704/play.pvr
-#EXTINF:-1tvg-name="TSN4"tvg-id="I104.90122.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90122/s90122_ll_h15_aa.png"group-title="",TSN4
+#EXTINF:-1tvg-name="TSN4"tvg-id="I104.90122.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90122/s90122_ll_h15_aa.png"group-title="Sports",TSN4
 plugin://plugin.video.tvone112/play/38/714/play.pvr
-#EXTINF:-1tvg-name="TSN5"tvg-id="I105.90124.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90124/s90124_ll_h15_aa.png"group-title="",TSN5
+#EXTINF:-1tvg-name="TSN5"tvg-id="I105.90124.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90124/s90124_ll_h15_aa.png"group-title="Sports",TSN5
 plugin://plugin.video.tvone1112/play/38/716/play.pvr
-#EXTINF:-1tvg-name="MLBNC"tvg-id="I107.90155.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90155/s90155_ll_h15_aa.png"group-title="",MLBNC
+#EXTINF:-1tvg-name="MLBNC"tvg-id="I107.90155.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90155/s90155_ll_h15_aa.png"group-title="Sports",MLBNC
 plugin://plugin.video.tvone1112/play/1080/play.pvr
-#EXTINF:-1tvg-name="SNE"tvg-id="I110.18798.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18798/s18798_ll_h15_aa.png"group-title="",SNE
+#EXTINF:-1tvg-name="SNE"tvg-id="I110.18798.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18798/s18798_ll_h15_aa.png"group-title="Sports",SNE
 plugin://plugin.video.tvone1112/play/2124/play.pvr
-#EXTINF:-1tvg-name="SNO"tvg-id="I112.18799.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18799/s18799_ll_h15_aa.png"group-title="",SNO
+#EXTINF:-1tvg-name="SNO"tvg-id="I112.18799.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18799/s18799_ll_h15_aa.png"group-title="Sports",SNO
 plugin://plugin.video.tvone1112/play/1326/play.pvr
-#EXTINF:-1tvg-name="SNW"tvg-id="I113.18800.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18800/s18800_ll_h15_aa.png"group-title="",SNW
+#EXTINF:-1tvg-name="SNW"tvg-id="I113.18800.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18800/s18800_ll_h15_aa.png"group-title="Sporte",SNW
 plugin://plugin.video.tvone1112/play/2124/play.pvr
-#EXTINF:-1tvg-name="SNP"tvg-id="I114.18801.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18801/s18801_ll_h15_aa.png"group-title="",SNP
+#EXTINF:-1tvg-name="SNP"tvg-id="I114.18801.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18801/s18801_ll_h15_aa.png"group-title="Sports",SNP
 plugin://plugin.video.tvone1112/play/2124/play.pvr
-#EXTINF:-1tvg-name="SN360"tvg-id="I115.20203.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/20203/s20203_ll_h15_aa.png"group-title="",SN360
+#EXTINF:-1tvg-name="SN360"tvg-id="I115.20203.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/20203/s20203_ll_h15_aa.png"group-title="Sports",SN360
 plugin://plugin.video.tvone1112/play/1327/play.pvr
-#EXTINF:-1tvg-name="SN1"tvg-id="I116.68858.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/68858/s68858_ll_h15_aa.png"group-title="",SN1
+#EXTINF:-1tvg-name="SN1"tvg-id="I116.68858.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/68858/s68858_ll_h15_aa.png"group-title="Sports",SN1
 plugin://plugin.video.tvone1112/play/1325/play.pvr
-#EXTINF:-1tvg-name="SNWL"tvg-id="I119.57735.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/57735/s57735_ll_h15_aa.png"group-title="",SNWL
+#EXTINF:-1tvg-name="SNWL"tvg-id="I119.57735.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/57735/s57735_ll_h15_aa.png"group-title="Sports",SNWL
 plugin://plugin.video.tvone1112/play/1324/play.pvr
-#EXTINF:-1tvg-name="NFLNETC"tvg-id="I120.72988.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/72988/s72988_ll_h15_aa.png"group-title="",NFLNETC
+#EXTINF:-1tvg-name="NFLNETC"tvg-id="I120.72988.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/72988/s72988_ll_h15_aa.png"group-title="Sports",NFLNETC
 plugin://plugin.video.tvone1112/play/400/play.pvr
-#EXTINF:-1tvg-name="GOLFBO"tvg-id="I121.65384.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/65384/s65384_ll_h15_aa.png"group-title="",GOLFBO
+#EXTINF:-1tvg-name="GOLFBO"tvg-id="I121.65384.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/65384/s65384_ll_h15_aa.png"group-title="Sporte",GOLFBO
 plugin://plugin.video.tvone1112/play/400/play.pvr
 #EXTINF:-1tvg-name="OLN"tvg-id="I122.17610.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17610/s17610_ll_h15_ac.png"group-title="",OLN
 plugin://plugin.video.tvone1112/play/400/play.pvr
