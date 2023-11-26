@@ -600,7 +600,8 @@ http://cctvcnch5c.v.wscdns.com/live/cctv1_2/index.m3u8
 #EXTINF:-1tvg-name="CRAVE"tvg-id="I534.90995.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90995/s90995_ll_h15_aa.png"group-title="",CRAVE
 #EXTINF:-1tvg-name="FJRDM"tvg-id="I535.72106.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/72106/s72106_ll_h15_aa.png"group-title="",FJRDM
 #EXTINF:-1tvg-name="CRAVEOD"tvg-id="I536.113587.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="",CRAVEOD
-#EXTINF:-1tvg-name="EPGLOOR"tvg-id="I537.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="",EPGLOOR
+#EXTINF:-1tvg-name="EPGLOOR"tvg-id="I537.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="",BBC TWO
+https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/mobile_wifi_main_sd_abr_v2.mpd
 #EXTINF:-1tvg-name="COWCAN"tvg-id="I538.113859.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/113859/s113859_h3_aa.png"group-title="",COWCAN
 #EXTINF:-1tvg-name="CI"tvg-id="I539.26773.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/26773/s26773_ll_h15_ab.png"group-title="",CI
 http://503718662793624948.of230922.xyz:80/play/Javi817J/Javi817JM122/624948.ts
