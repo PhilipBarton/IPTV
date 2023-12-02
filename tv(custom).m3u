@@ -618,15 +618,15 @@ ttp://503718662793620354.of230922.xyz:80/play/Javi817J/Javi817JM122/620354.ts
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 https://etslive-2-vidio-com.secureswiftcontent.com/exp=1699735004~acl=/hls-p/ingest_7619_*/*~hmac=d8bc14bba64f03bf404a8e0896cc18cf3b3406235f25c0027c1f62bda84367f1/hls-p/ingest_7619_360p/index.m3u8
-#EXTINF:-1tvg-name="EPGLOOR"tvg-id="I550.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="",EPGLOOR
-rtp://239.0.0.2:5001
-#EXTINF:-1tvg-name="EPGLOOR"tvg-id="I551.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="",EPGLOOR
-rtp://239.0.0.2:5001
-#EXTINF:-1tvg-name="EPGLOOR"tvg-id="I552.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="",EPGLOOR
-rtp://239.0.0.2:5001
-#EXTINF:-1tvg-name="EPGLOOR"tvg-id="I553.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="",EPGLOOR
-rtp://239.0.0.2:5001
-#EXTINF:-1tvg-name="EPGLOOR"tvg-id="I554.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="",EPGLOOR
+#EXTINF:-1tvg-name="EPGLOOR"tvg-id="I550.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="",BBC Three
+https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_three_hd/mobile_wifi_main_sd_abr_v2.mpd
+#EXTINF:-1tvg-name="EPGLOOR"tvg-id="I551.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="British",BBC One
+https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/mobile_wifi_main_sd_abr_v2.mpd
+#EXTINF:-1tvg-name="EPGLOOR"tvg-id="I552.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="",BBC Four
+https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/mobile_wifi_main_sd_abr_v2.mpd
+#EXTINF:-1tvg-name="EPGLOOR"tvg-id="I553.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="",Channel 4
+https://edge-1288-ch-gv.filmon.com/live/2.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe2e1b132919f30b9f167fd05167b7b84bad2f46d3c77e16a4bf1cab302cb1e425110e81b10bb37d6ffc6c5ca9bea0c6b003f72de40fc18624362edfde64e042cb13ce42034d207a4529789c5513b789fab1a0d3be67f5ccb987bfad19a498a30f6a2db00f96515878b4cdd1fc23ebd72b5571ab54664e63d9a4b9eef225ad366b522f4f7cb940efdd7cd9906bf3ac5d15
+#EXTINF:-1tvg-name="EPGLOOR"tvg-id="I554.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title=""ITV
 rtp://239.0.0.2:5001
 #EXTINF:-1tvg-name="EPGLOOR"tvg-id="I555.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="",EPGLOOR
 rtp://239.0.0.2:5001
