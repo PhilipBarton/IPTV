@@ -240,9 +240,8 @@ https://tvlive.sbs.co.kr/sbsch6/sbsch62.stream/playlist.m3u8?token=eyJ0eXAiOiJKV
 #EXTINF:-1tvg-name="MBC"tvg-id="I195.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="Korean",MBC
 https://live.imnews.imbc.com/imnews/_definst_/live2.stream/playlist.m3u8?e=1700848168&h=06d8e0b3dfb182e36a0e5a46ddb40456
 #EXTINF:-1 tvg-name="9xm" tvg-id="10394" tvg-country="India" tvg-language="Hindi" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/9xm-black.png" group-title="Music",[VGA]9xm
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-https://dishtvtest.akamaized.net/280723/smil:9xmusic.smil/chunklist_b1928000.m3u8
+
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1tvg-name="WPCH"tvg-id="I200.19556.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19556/s19556_ll_h15_aa.png"group-title="",WPCH
 http://503718662793631009.of230922.xyz:80/play/Javi817J/Javi817JM122/631009.ts
 #EXTINF:-1tvg-name="SHCASEC"tvg-id="I201.15085.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/15085/s15085_ll_h15_aa.png"group-title="",SHCASEC
