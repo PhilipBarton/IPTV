@@ -3,7 +3,7 @@
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-608083444363b700366942df.m3u8
 #EXTINF:-1tvg-name="CBNT"tvg-id="12940"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17400/s10084_ll_h15_ab.png"group-title="News",CBNT
 https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8
-#EXTINF:-1 tvg-id="EkusheyTV.bd",Ekushey TV (480p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png" tvg-id="EkusheyTV.bd",Ekushey TV (480p)
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 tvg-name="CIHF" tvg-id="13016" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17396/s17396_ll_h15_ab.png" group-title="Entertainment",CIHF
 http://503718662793617060.of230922.xyz:80/play/Javi817J/Javi817JM122/617060.ts
