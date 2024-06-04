@@ -5,7 +5,7 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-608083444363b700366942df.m3u8
 https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png" tvg-id="EkusheyTV.bd",Ekushey TV (480p)
 https://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF:-1 tvg-name="CIHF" tvg-id="13016" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17396/s17396_ll_h15_ab.png" group-title="Entertainment",Somoy TV
+#EXTINF:-1 tvg-name="CIHF" tvg-id="13016" tvg-logo="https://www.somoynews.tv/_nuxt/img/somoy-logo-big-2.8c0bf75.png" group-title="Entertainment",Somoy TV
 https://customer-t0nw9oic5pvyrmd4.cloudflarestream.com/0e4195487bdb9b9dd9a2182651430e50/manifest/stream_t1_r480001.m3u8?useVODOTFE=false
 #EXTINF:-1tvg-name="ASNp"tvg-id="12735"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/12892/s10135_ll_h15_ab.png"group-title="",ASN
 #KODIPROP:inputstream=inputstream.adaptive
