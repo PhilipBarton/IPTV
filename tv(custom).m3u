@@ -298,7 +298,7 @@ http://503718662793621759.of230922.xyz:80/play/Javi817J/Javi817JM122/621759.ts
 http://503718662793600885.of230922.xyz:80/play/Javi817J/Javi817JM122/600885.ts
 #EXTINF:-1tvg-name="MTVCAN"tvg-id="I245.24514.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/24514/s24514_ll_h15_ad.png"group-title="",MTVCAN
 http://503718662793614449.of230922.xyz:80/play/Javi817J/Javi817JM122/614449.ts
-#EXTINF:-1tvg-name="OUTTV"tvg-id="I249.26776.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/26776/s26776_ll_h15_ac.png"group-title="",Asian tv
+#EXTINF:-1tvg-name="OUTTV"tvg-id="I249.26776.zap2it.com"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfXBA0LHsMtEBJyYo1Xt_HrhyMGHBLtcFXHw&s"group-title="",Asian tv
 https://mtlivestream.site/asian/ytlive/index.m3u8
 #EXTINF:-1tvg-name="YTV"tvg-id="I252.12045.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/12045/s12045_ll_h9_ab.png"group-title="",YTV
 #EXTINF:-1tvg-name="TREEC"tvg-id="I253.17639.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17639/s17639_ll_h15_ab.png"group-title="",TREEC
@@ -307,7 +307,9 @@ http://503718662793588466.of230922.xyz:80/play/Javi817J/Javi817JM122/588466.ts
 https://i.mjh.nz/SamsungTVPlus/INBD13000205L.m3u8
 #EXTINF:-1tvg-name="TOONAVN"tvg-id="I255.113497.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/113497/s113497_ll_h15_aa.png"group-title="",TOONAVN
 #EXTINF:-1tvg-name="NICKC"tvg-id="I256.65531.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/65531/s65531_ll_h15_aa.png"group-title="",NICKC
-http://503718662793614455.of230922.xyz:80/play/Javi817J/Javi817JM122/614455.ts
+
+https://i.mjh.nz/SamsungTVPlus/USBA3000158L.m3u8
+
 #EXTINF:-1tvg-name="APC"tvg-id="I257.26823.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/26823/s26823_ll_h15_ad.png"group-title="",APC
 #EXTINF:-1tvg-name="TFC"tvg-id="I258.11156.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11156/s11156_ll_h15_aa.png"group-title="",TFC
 #EXTINF:-1tvg-name="FJR"tvg-id="I259.59119.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59119/s59119_ll_h15_aa.png"group-title="",FJR
@@ -716,6 +718,7 @@ http://503718662793633053.of230922.xyz:80/play/Javi817J/Javi817JM122/633053.ts
 #EXTINF:-1tvg-name="FIGHT"tvg-id="I639.48099.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/48099/s48099_ll_h15_aa.png"group-title="",FIGHT
 http://503718662793621752.of230922.xyz:80/play/Javi817J/Javi817JM122/621752.ts
 #EXTINF:-1tvg-name="CBSCNHD"tvg-id="I641.71565.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/71565/s59250_ll_h15_ac.png"group-title="",CBSCNHD
+https://i.mjh.nz/SamsungTVPlus/USBB4800005VO.m3u8
 #EXTINF:-1tvg-name="SPMANHD"tvg-id="I642.60399.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/60399/s60399_ll_h15_ad.png"group-title="",SPMANHD
 #EXTINF:-1tvg-name="GMPLSCH"tvg-id="I643.87431.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/87431/s87431_ll_h15_ab.png"group-title="",GMPLSCH
 #EXTINF:-1tvg-name="NHLH1"tvg-id="I645.89378.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/89378/s89605_ll_h15_aa.png"group-title="",NHLH1
