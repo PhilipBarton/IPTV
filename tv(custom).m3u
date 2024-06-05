@@ -38,7 +38,7 @@ https://i.mjh.nz/SamsungTVPlus/USBD2700010WB.m3u8
 #EXTINF:-1 channel-id="samsung-USBD2700019N0" tvg-id="USBD2700019N0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700019N0_20240520T223334SQUARE.png" tvg-chno="1125" group-title="News & Opinion" , FOX 2 San Francisco
 https://i.mjh.nz/SamsungTVPlus/USBD2700019N0.m3u8
 #EXTINF:-1tvg-name="WFXT"tvg-id="I10.11456.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11456/s10212_ll_h15_ab.png"group-title="",WFXT
-plugin://plugin.video.tvone11/play/5/149/play.pvr
+https://i.mjh.nz/SamsungTVPlus/USBD2700019N0.m3u8
 #EXTINF:-1tvg-name="WCVBSAT"tvg-id="I11.70809.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/70809/s10003_ll_h15_ac.png"group-title="",WCVBSAT
 http://503718662793636238.of230922.xyz:80/play/Javi817J/Javi817JM122/636238.ts
 #EXTINF:-1tvg-name="CJON"tvg-id="I12.14926.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/14926/s14926_ll_h15_aa.png"group-title="",CJON
@@ -76,9 +76,17 @@ https://cdn3.wowza.com/1/eUdsNEcyMmRvckor/K3pydHZw/hls/live/playlist.m3u8
 http://503718662793633923.of230922.xyz:80/play/Javi817J/Javi817JM122/633923.ts
 #EXTINF:-1tvg-name="CBUT"tvg-id="I29.10100.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10100/s10084_ll_h15_ab.png"group-title="",CBUT
 http://503718662793633903.of230922.xyz:80/play/Javi817J/Javi817JM122/633903.ts
-#EXTINF:-1tvg-name="CIVT"tvg-id="I30.17594.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17594/s10108_ll_h15_ab.png"group-title="",CIVT
-http://503718662793633914.of230922.xyz:80/play/Javi817J/Javi817JM122/633914.ts
-#EXTINF:-1tvg-name="CHAN"tvg-id="I31.10050.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10050/s10050_ll_h15_ac.png"group-title="",CHAN
+#EXTINF:-1tvg-name="NBCS"tvg-id="I30.17594.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17594/s10108_ll_h15_ab.png"group-title="Sports",NBC Sports
+https://i.mjh.nz/SamsungTVPlus/USBD420002446.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD700013BW" tvg-id="USBD700013BW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700013BW_20240520T220057SQUARE.png" tvg-chno="2358" group-title="Sports & Outdoors" , DraftKings Network
+https://i.mjh.nz/SamsungTVPlus/USBD700013BW.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBA300031OT" tvg-id="USBA300031OT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300031OT_20240520T215945SQUARE.png" tvg-chno="2362" group-title="Sports & Outdoors" , SportsGrid
+https://i.mjh.nz/SamsungTVPlus/USBA300031OT.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD12000255B" tvg-id="USBD12000255B" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000255B_20240520T220058SQUARE.png" tvg-chno="2368" group-title="Sports & Outdoors" , FIFA+
+https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8#EXTINF:-1tvg-name="CHAN"tvg-id="I31.10050.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10050/s10050_ll_h15_ac.png"group-title="",CHAN
 http://503718662793633047.of230922.xyz:80/play/Javi817J/Javi817JM122/633047.ts
 #EXTINF:-1tvg-name="CCTV16"tvg-id="I32.10136.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10136/s10125_ll_h15_ab.png"group-title="",CCTV16
 https://ldcctvwbcdali.v.myalicdn.com/ldcctvwbcd/cdrmldcctv16_1ud.m3u8
