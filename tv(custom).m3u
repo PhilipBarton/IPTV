@@ -25,7 +25,17 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-65970654fca6056ca69e3e41.m3u8
 #EXTINF:-1 tvg-name="WMED" tvg-id="I8.11684.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11684/s11039_ll_h15_ab.png"group-title="",WMED
 plugin://slyguy.pbs.live
 #EXTINF:-1tvg-name="WBTSSD"tvg-id="I9.112743.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/112743/s10991_ll_h15_ad.png"group-title="",WBTSSD
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5fc70600dd53a6002d8f93ca.m3u8
+
+https://i.mjh.nz/SamsungTVPlus/USBC3200005A0.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBC4400010RH" tvg-id="USBC4400010RH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400010RH_20240520T223244SQUARE.png" tvg-chno="1123" group-title="News & Opinion" , ABC7 Bay Area
+https://i.mjh.nz/SamsungTVPlus/USBC4400010RH.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD2700010WB" tvg-id="USBD2700010WB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700010WB_20240520T223302SQUARE.png" tvg-chno="1124" group-title="News & Opinion" , CBS News Bay Area
+https://i.mjh.nz/SamsungTVPlus/USBD2700010WB.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD2700019N0" tvg-id="USBD2700019N0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700019N0_20240520T223334SQUARE.png" tvg-chno="1125" group-title="News & Opinion" , FOX 2 San Francisco
+https://i.mjh.nz/SamsungTVPlus/USBD2700019N0.m3u8
 #EXTINF:-1tvg-name="WFXT"tvg-id="I10.11456.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11456/s10212_ll_h15_ab.png"group-title="",WFXT
 plugin://plugin.video.tvone11/play/5/149/play.pvr
 #EXTINF:-1tvg-name="WCVBSAT"tvg-id="I11.70809.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/70809/s10003_ll_h15_ac.png"group-title="",WCVBSAT
