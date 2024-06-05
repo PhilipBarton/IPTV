@@ -23,7 +23,8 @@ https://live-ctv.video.9c9media.com/f/ctv/cjch/manifest.mpd
 
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-65970654fca6056ca69e3e41.m3u8
 #EXTINF:-1 tvg-name="WMED" tvg-id="I8.11684.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11684/s11039_ll_h15_ab.png"group-title="",WMED
-plugin://slyguy.pbs.live
+
+https://i.mjh.nz/SamsungTVPlus/USBB800001O7.m3u8
 #EXTINF:-1tvg-name="WBTSSD"tvg-id="I9.112743.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/112743/s10991_ll_h15_ad.png"group-title="",WBTSSD
 
 https://i.mjh.nz/SamsungTVPlus/USBC3200005A0.m3u8
