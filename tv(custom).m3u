@@ -245,7 +245,7 @@ rtp://239.0.0.2:5001
 #EXTINF:-1tvg-name="CJCHDT"tvg-id="I184.72780.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/72780/s10108_ll_h15_ab.png"group-title="",CJCHDT
 rtp://239.0.0.2:5001
 #EXTINF:-1tvg-name="vevo70s"tvg-id="5fd7b8bf927e090007685853"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="Music",vevo 70s
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo70saunz-samsungnz/playlist.m3u8
+https://i.mjh.nz/SamsungTVPlus/USBD300011KQ.m3u8
 #EXTINF:-1tvg-name="kpop"tvg-id="I192.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="Music",KPOP
 https://tvlive.sbs.co.kr/sbskpop/sbskpop2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MDA3NDkxOTIsInBhdGgiOiIvc2Jza3BvcDIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI5ZTQ1YzE4Ny1kMTEzLTRmNTYtYmE2NS03N2ZmM2EzODAzNzciLCJpYXQiOjE3MDA3NDE5OTJ9.j9SVmb9bYXwNwEKrZzGaPdRTOmad0T6p-96YLcASjfU
 #EXTINF:-1 tvg-name="EPGLOOR"tvg-id="I193.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="Korean",KBS Kids
