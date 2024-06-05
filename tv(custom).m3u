@@ -62,8 +62,8 @@ https://i.mjh.nz/SamsungTVPlus/USBB11000015Q.m3u8
 plugin://plugin.video.tvone1112/play/1936/play.pvr
 #EXTINF:-1tvg-name="CMT"tvg-id="I22.15072.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/15072/s15072_ll_h15_aa.png"group-title="",CMT
 plugin://plugin.video.tvone112/play/145/2412/play.pvr
-#EXTINF:-1tvg-name="APTNE"tvg-id="I23.59663.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59663/s59663_ll_h15_aa.png"group-title="",APTNE
-rtp://239.0.0.2:5001
+#EXTINF:-1tvg-name="APTNE"tvg-id="I23.59663.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59663/s59663_ll_h15_aa.png"group-title="Sports",Sky Cricket
+https://buc01.jobdone.top:8088/live/webcricn04/playlist.m3u8?vidictid=198793921489&id=114607&pk=7b1423f2d89f1a13ea1495a75b3f1abfaacc70ee75af8da0c6e417bca597830a74cad53eb03017568e71617de34f18aa4e593f7fa3cc2759452ddf854b196362
 #EXTINF:-1tvg-name="CP24"tvg-id="I24.18168.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18168/s18168_ll_h15_aa.png"group-title="News",CP24
 https://capi.9c9media.com/destinations/cp24_web/platforms/desktop/bond/contents/68595/contentpackages/23172/manifest.mpd
 #EXTINF:-1tvg-name="JTV"tvg-id="I25.16604.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/16604/s16604_ll_h15_ab.png"group-title="shopping",JTV
