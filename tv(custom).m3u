@@ -248,8 +248,9 @@ rtp://239.0.0.2:5001
 https://i.mjh.nz/SamsungTVPlus/USBD300011KQ.m3u8
 #EXTINF:-1tvg-name="kpop"tvg-id="I192.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="Music",KPOP
 https://tvlive.sbs.co.kr/sbskpop/sbskpop2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MDA3NDkxOTIsInBhdGgiOiIvc2Jza3BvcDIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI5ZTQ1YzE4Ny1kMTEzLTRmNTYtYmE2NS03N2ZmM2EzODAzNzciLCJpYXQiOjE3MDA3NDE5OTJ9.j9SVmb9bYXwNwEKrZzGaPdRTOmad0T6p-96YLcASjfU
-#EXTINF:-1 tvg-name="EPGLOOR"tvg-id="I193.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="Korean",KBS Kids
-https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-01/kbsnkids-01_sd.m3u8?Expires=1700914939&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNua2lkcy5nc2Nkbi5rYnMuY28ua3Iva2JzbmtpZHMtMDEva2JzbmtpZHMtMDFfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcwMDkxNDkzOX19fV19&Signature=ip7~IfkF4YOc8vB9YMlesM3pVa7rOCbN-FusLdKMfOm7Db7mkfUqEk4-LHQCVYv5qN~ayydDqYKsrv3WicVyn1f23A3nkhc34KJ8sEz~rMhlyDkM2rd01YrF3~1Re8CyiOVkMtGTPLjR96ZvrgozBOGRNxZ0sf8Fdp8bbYItNMi9ZxNO663YVmyXAOJBJstwWVpVJQx0KaKKuJr6rTOKI5guLnI17Et8qpyIS644X~D-kzcoyQlTES3b6iaG0pdqi~c2w5A29~Cf0gqx58grKOn3nYNKlTeM2GeCTc8P0XJCAc6EM0YS-HI-DluqA6SDXpg1MMn5f3ndmpkxg0maYQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF:-1 tvg-name="EPGLOOR"tvg-id="I193.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="Korean",KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+
 #EXTINF:-1tvg-name="SBS"tvg-id="I194.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="Korean",SbS plus
 https://tvlive.sbs.co.kr/sbsch6/sbsch62.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MDA4NDgxMDIsInBhdGgiOiIvc2JzY2g2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImNhNWQxZTNmLWNmNTgtNGQ3OS04ZDRlLWJhNjJlZmE5NmZmZCIsImlhdCI6MTcwMDg0MDkwMn0.0HuAhtqIwXnBFJqRNJ7hISOcUo0UFm7UJfXwYYs4GF8
 #EXTINF:-1tvg-name="MBC"tvg-id="I195.27733.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png"group-title="Korean",MBC
