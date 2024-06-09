@@ -7,6 +7,8 @@ https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 tvg-name="Somoy" tvg-id="13016" tvg-logo="https://www.somoynews.tv/_nuxt/img/somoy-logo-big-2.8c0bf75.png" group-title="News", Somoy TV
 https://customer-t0nw9oic5pvyrmd4.cloudflarestream.com/0e4195487bdb9b9dd9a2182651430e50/manifest/video.m3u8
+#EXTINF:-1 tvg-name="BTVW" tvg-id="13016" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1676193145934_4.png&w=1920&q=75" group-title="News", BTV World
+https://www.btvlive.gov.bd/streams/6c44af1b-8222-4b00-9138-a15400e595ab/BD/d96eb7f4-83c2-4472-9597-3568390a8ebf/d96eb7f4-83c2-4472-9597-3568390a8ebf_3_playlist.m3u8
 #EXTINF:-1tvg-name="ASNp"tvg-id="12735"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/12892/s10135_ll_h15_ab.png"group-title="",ASN
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
